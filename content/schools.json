@@ -1,0 +1,2709 @@
+[
+  {
+    "slug": "baranagar-high-school",
+    "name": "বড়নগর উচ্চ বিদ্যালয়",
+    "nameEn": "Baranagar High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "chatalpar",
+    "village": "baranagar",
+    "established": 1994,
+    "eiin": "103456",
+    "head": "মোঃ আব্দুল কাদির (২০২৪-এর তথ্য)",
+    "email": "baranagarschool@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103456",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AC%E0%A7%9C-%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-f943c8-6991544635ce18e1c07416b5"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "bhalakut-kb-high-school",
+    "name": "ভলাকুট ক্ষেত্রনাথ বিশ্বাস উচ্চ বিদ্যালয়",
+    "nameEn": "Bholakut Kshetranath Biswas High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "bhalakut",
+    "village": "bhalakut",
+    "established": 1966,
+    "eiin": "103451",
+    "head": "কাজী মোঃ আতাউর রহমান (২০২৪-এর তথ্য)",
+    "email": "s103451@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103451",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AD%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%9F-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A6%BE%E0%A6%A5-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%9F-1c4afd-6991545435ce18e1c0741cbd"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "syed-kamruzzaman-high-school",
+    "name": "সৈয়দ কামরুজ্জামান উচ্চ বিদ্যালয়",
+    "nameEn": "Syed Kamruzzaman High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "chapairtala",
+    "village": "chapairtala",
+    "established": 1995,
+    "eiin": "103443",
+    "head": "মোঃ ছানাউল আমিন ভুইয়া (২০২৪-এর তথ্য)",
+    "email": "s103443@yahoo.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103443",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%B8%E0%A7%88%E0%A7%9F%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-270a61-6991543f35ce18e1c0741337"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "chatalpar-degree-college",
+    "name": "চাতলপাড় ডিগ্রি কলেজ",
+    "nameEn": "Chatalpar Degree College",
+    "type": "কলেজ",
+    "level": "উচ্চ মাধ্যমিক, ডিগ্রি (পাস)",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "chatalpar",
+    "village": "chatalpar",
+    "established": 1995,
+    "eiin": "103465",
+    "head": "মোঃ ওমর আলী (২০২৪-এর তথ্য)",
+    "email": "chatalparcollege1995@yahoo.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103465",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%9A%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A7%9C-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C-20358c-6991544b35ce18e1c074188f"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "chatalpar-wajuddin-high-school",
+    "name": "চাতলপাড় ওয়াজ উদ্দিন উচ্চ বিদ্যালয়",
+    "nameEn": "Chatalpar Wazuddin High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "chatalpar",
+    "village": "chatalpar",
+    "established": 1902,
+    "eiin": "103448",
+    "head": "মোঃ আইয়ুব খান (২০২৪-এর তথ্য)",
+    "email": "chatalparwhs1902@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103448",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%9A%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%9C-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-b4f9ec-6991545135ce18e1c0741b72",
+      "https://bn.banglapedia.org/index.php?title=নাসিরনগর_উপজেলা"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "dharmandal-high-school",
+    "name": "ধরমন্ডল উচ্চ বিদ্যালয়",
+    "nameEn": "Dharmandal High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "dharmandal",
+    "village": "dharmandal",
+    "established": 1984,
+    "eiin": "103454",
+    "head": "মোঃ মোফাজ্জেল হোসেন (২০২৪-এর তথ্য)",
+    "email": "s103454@yahoo.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103454",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-4b17e6-6991544c35ce18e1c074194c"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "fandauk-pandit-ram-high-school",
+    "name": "ফান্দাউক পন্ডিতরাম উচ্চ বিদ্যালয়",
+    "nameEn": "Fandauk Panditaram High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "fandauk",
+    "village": "fandauk",
+    "established": 1919,
+    "eiin": "103450",
+    "founder": "বাবু পণ্ডিতরাম দাস",
+    "head": "মোহাম্মদ হাবিবুর রহমান শেখ (২০২৪-এর তথ্য)",
+    "email": "s103450@yahoo.com",
+    "details": [
+      "বিদ্যালয়টি ফান্দাউক বাজারের পাশে।"
+    ],
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103450",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AB%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%89%E0%A6%95-%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-8e7038-6991545135ce18e1c0741b83",
+      "https://bn.banglapedia.org/index.php?title=নাসিরনগর_উপজেলা",
+      "https://bn.wikipedia.org/wiki/ফান্দাউক_পণ্ডিত_রাম_উচ্চ_বিদ্যালয়"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "fandauk-madinatul-ulum-dakhil-madrasa",
+    "name": "ফান্দাউক মদিনাতুল উলুম দাখিল মাদ্রাসা",
+    "nameEn": "Fandauk Madinatul Ulum Dakhil Madrasah",
+    "type": "মাদ্রাসা",
+    "level": "দাখিল, আলিম",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "fandauk",
+    "village": "fandauk",
+    "established": 1959,
+    "eiin": "103459",
+    "head": "মোঃ আবুবকর ভুঁইয়া (২০২৪-এর তথ্য)",
+    "email": "fandaukmuam@gmail.com",
+    "details": [
+      "২০২৬-২৭ শিক্ষাবর্ষের একাদশ শ্রেণির সরকারি ভর্তি তালিকায় প্রতিষ্ঠানটি আলিম মাদ্রাসা হিসেবে আছে।",
+      "মাদ্রাসার সঙ্গে একটি এতিমখানাও আছে।"
+    ],
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103459",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "http://bmeb.ebmeb.gov.bd/data/20170116115902227828.pdf",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AB%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%89%E0%A6%95-%E0%A6%AE%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%B2-%E0%A6%89%E0%A6%B2%E0%A7%81%E0%A6%AE-%E0%A6%A6%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE-300c82-6991544335ce18e1c0741568",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990cf2b35ce18e1c0719d39"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "goalnagar-high-school",
+    "name": "গোয়ালনগর উচ্চ বিদ্যালয়",
+    "nameEn": "Goalnagar High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "goalnagar",
+    "village": "goalnagar",
+    "established": 1975,
+    "eiin": "103453",
+    "head": "মোঃ হাবিবুর রহমান (২০২৪-এর তথ্য)",
+    "email": "eiin103453@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103453",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%97%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-f13dc1-6991544335ce18e1c0741567"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "guniauk-high-school",
+    "name": "গুনিয়াউক উচ্চ বিদ্যালয়",
+    "nameEn": "Guniauk High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "guniauk",
+    "village": "guniauk",
+    "established": 1897,
+    "eiin": "103447",
+    "head": "মোহাম্মদ মিজানুর রহমান (২০২৪-এর তথ্য)",
+    "email": "hs103447@gmail.com",
+    "website": "http://www.ghsnb.edu.bd",
+    "summary": "১৮৯৭ সালে প্রতিষ্ঠিত, নাসিরনগরের সবচেয়ে পুরোনো মাধ্যমিক বিদ্যালয়।",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103447",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%89%E0%A6%95-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-8515fb-6991544735ce18e1c07416f7",
+      "http://www.ghsnb.edu.bd/",
+      "https://bn.banglapedia.org/index.php?title=নাসিরনগর_উপজেলা"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "harinber-shahjahan-high-school",
+    "name": "হরিণবেড় শাহজাহান উচ্চ বিদ্যালয়",
+    "nameEn": "Harinber Shahjahan High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "haripur",
+    "village": "harinber",
+    "established": 1984,
+    "eiin": "103444",
+    "head": "মোস্তাক উদ্দিন আহমদ (২০২৪-এর তথ্য)",
+    "email": "hshs103444@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103444",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%A3%E0%A6%AC%E0%A7%87%E0%A7%9C-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A8-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-15cd12-6991543e35ce18e1c074126f"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "kunda-high-school",
+    "name": "কুন্ডা উচ্চ বিদ্যালয়",
+    "nameEn": "Kunda High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "kunda",
+    "village": "kunda",
+    "established": 1968,
+    "eiin": "103452",
+    "head": "মোঃ শহিদুল হক (২০২৪-এর তথ্য)",
+    "email": "kundahighschool1968@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103452",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-04e4f1-6991545335ce18e1c0741c97"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "nasirnagar-govt-college",
+    "name": "নাসিরনগর সরকারি কলেজ",
+    "nameEn": "Nasirnagar Govt. College",
+    "type": "কলেজ",
+    "level": "উচ্চ মাধ্যমিক, ডিগ্রি (পাস)",
+    "management": "সরকারি",
+    "gender": "সহশিক্ষা",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "established": 1987,
+    "eiin": "103464",
+    "head": "মো. রমজান আলী (জুলাই ২০২৬-এর তথ্য)",
+    "students": 1145,
+    "email": "nasirnagardegreecollege@yahoo.com",
+    "summary": "উপজেলার একমাত্র সরকারি কলেজ, ১৯৮৭ সালে প্রতিষ্ঠিত। উচ্চ মাধ্যমিক ও স্নাতক (পাস) পর্যায়ে পড়ানো হয়।",
+    "details": [
+      "শুরুতে নাম ছিল নাসিরনগর ডিগ্রি কলেজ। ২০১৮ সালে কলেজটি সরকারি হয়।",
+      "উচ্চ মাধ্যমিকে মানবিক, বিজ্ঞান ও ব্যবসায় শিক্ষা বিভাগ আছে; স্নাতক (পাস) পর্যায়ে বিএ, বিএসএস, বিএসসি ও বিবিএস পড়ানো হয়।",
+      "ক্যাম্পাসের আয়তন প্রায় ৩২ একর।",
+      "২০২৬ সালের জুলাইয়ে ইংরেজি ও আইসিটি বিষয়ে অনার্স কোর্সের অনুমোদন পায়।"
+    ],
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103464",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://www.itvbd.com/country/chittagong/271779/নাসিরনগর-সরকারি-কলেজে-অনার্সের-অনুমোদন-হাওরাঞ্চলে-আশার-আলো",
+      "https://bn.banglapedia.org/index.php?title=নাসিরনগর_উপজেলা",
+      "https://bn.wikipedia.org/wiki/নাসিরনগর_সরকারি_কলেজ"
+    ],
+    "updatedAt": "2026-10-08",
+    "images": [
+      {
+        "src": "/images/schools/nasirnagar-govt-college/1.jpg",
+        "caption": "কলেজের প্রবেশমুখ, সেপ্টেম্বর ২০২৩"
+      },
+      {
+        "src": "/images/schools/nasirnagar-govt-college/2.jpg",
+        "caption": "ক্যাম্পাসের ভেতরের পথ, সেপ্টেম্বর ২০২৩"
+      },
+      {
+        "src": "/images/schools/nasirnagar-govt-college/3.jpg",
+        "caption": "পুরনো নামফলক (২০১৬): নাসিরনগর (ডিগ্রি) মহাবিদ্যালয়, স্থাপিত ১৯৮৭"
+      }
+    ]
+  },
+  {
+    "slug": "nasirnagar-ashutosh-pilot-high-school",
+    "name": "নাসিরনগর আশুতোষ পাইলট উচ্চ বিদ্যালয়",
+    "nameEn": "Nasirnagar Ashutosh Pilot High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "established": 1937,
+    "eiin": "103446",
+    "founder": "জমিদার কমলারঞ্জন রায়",
+    "head": "মোঃ আব্দুর রহিম (২০২৪-এর তথ্য)",
+    "email": "nasirnagaraphighschool@yahoo.com",
+    "website": "https://naphschool.edu.bd",
+    "summary": "উপজেলা সদরের মাধ্যমিক বিদ্যালয়, ১৯৩৭ সালে প্রতিষ্ঠিত।",
+    "history": "জমিদার কমলারঞ্জন রায় তাঁর পিতা আশুতোষ রায়ের নামে বিদ্যালয়টি প্রতিষ্ঠা করেন। ব্যানবেইস, বিদ্যালয়ের ওয়েবসাইট ও উইকিপিডিয়ায় প্রতিষ্ঠাকাল ১৯৩৭; বাংলাপিডিয়ায় ১৯৪৫ লেখা আছে।",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103446",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://naphschool.edu.bd/",
+      "https://bn.wikipedia.org/wiki/নাসিরনগর_আশুতোষ_পাইলট_উচ্চ_বিদ্যালয়",
+      "https://bn.banglapedia.org/index.php?title=নাসিরনগর_উপজেলা",
+      "https://www.itvbd.com/country/chittagong/271779/নাসিরনগর-সরকারি-কলেজে-অনার্সের-অনুমোদন-হাওরাঞ্চলে-আশার-আলো"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "purbabhag-sesdp-model-high-school",
+    "name": "পূর্বভাগ এস.ই.এস.ডি.পি মডেল উচ্চ বিদ্যালয়",
+    "nameEn": "Purbabhag SESDP Model High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "purbabhag",
+    "village": "purbabhag",
+    "established": 2011,
+    "eiin": "134839",
+    "email": "s134839@yahoo.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/134839",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%AD%E0%A6%BE%E0%A6%97-%E0%A6%8F%E0%A6%B8-%E0%A6%87-%E0%A6%8F%E0%A6%B8-%E0%A6%A1%E0%A6%BF-%E0%A6%AA%E0%A6%BF-%E0%A6%AE%E0%A6%A1%E0%A7%87%E0%A6%B2-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-b6326f-6991543e35ce18e1c0741267",
+      "https://purbabhagup.brahmanbaria.gov.bd/pages/static-pages/6990e9a035ce18e1c0728c3d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%AD%E0%A6%BE%E0%A6%97-%E0%A6%8F%E0%A6%B8%E0%A6%87%E0%A6%8F%E0%A6%B8%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%AE%E0%A6%A1%E0%A7%87%E0%A6%B2-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-56d200-6991544235ce18e1c07414ae"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "ratanpur-fazilia-dakhil-madrasa",
+    "name": "রতনপুর ফাজিলিয়া দাখিল মাদ্রাসা",
+    "nameEn": "Ratan Pur Fazilia Dakhil Madrasha",
+    "type": "মাদ্রাসা",
+    "level": "দাখিল",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "chatalpar",
+    "village": "ratanpur",
+    "established": 1977,
+    "eiin": "103461",
+    "head": "মোঃ আবদুছ সালাম (২০২৪-এর তথ্য)",
+    "email": "m103461@gmail.com",
+    "website": "http://103461.ebmeb.gov.bd",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103461",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%B0%E0%A6%A4%E0%A6%A8%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AB%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE-e0d2c9-6991544635ce18e1c0741642"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "srighar-sesdp-model-high-school",
+    "name": "শ্রীঘর এসইএসডিপি মডেল হাই স্কুল",
+    "nameEn": "Srighar SESDP Model High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "buriswar",
+    "village": "srighar",
+    "established": 2011,
+    "eiin": "135620",
+    "head": "মুহাম্মদ মিজানুর রহমান (২০২৪-এর তথ্য)",
+    "email": "s135620@yahoo.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/135620",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%98%E0%A6%B0-%E0%A6%8F%E0%A6%B8%E0%A6%87%E0%A6%8F%E0%A6%B8%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%AE%E0%A6%A1%E0%A7%87%E0%A6%B2-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-66fe01-6991544e35ce18e1c0741a1c"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "bijoylaxmi-school-and-college",
+    "name": "বিজয়লক্ষ্মী স্কুল এন্ড কলেজ",
+    "nameEn": "Bijoylaxmi School and College",
+    "type": "স্কুল অ্যান্ড কলেজ",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "buriswar",
+    "village": "dakshin-singhagram",
+    "established": 1999,
+    "eiin": "103457",
+    "head": "গণেশ চন্দ্র বর্ধন (২০২৪-এর তথ্য)",
+    "email": "s103457@yahoo.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103457",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C-7118ad-6991543f35ce18e1c0741306",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C-46945b-6991544f35ce18e1c0741ab2"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "gokarna-syed-waliullah-school-and-college",
+    "name": "গোকর্ণ সৈয়দ ওয়ালীউল্লাহ স্কুল এন্ড কলেজ",
+    "nameEn": "Gokarna Sayed Wali Ullah School and College",
+    "type": "স্কুল অ্যান্ড কলেজ",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "gokarna",
+    "village": "gokarna",
+    "established": 1915,
+    "eiin": "103449",
+    "head": "সনজিৎ কুমার দেব (২০২৪-এর তথ্য)",
+    "email": "s103449@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103449",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%97%E0%A7%8B%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A8-%E0%A6%B8%E0%A7%88%E0%A7%9F%E0%A6%A6-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9-%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2-%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C-2eb862-6991544235ce18e1c0741496"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "jethagram-high-school",
+    "name": "জেঠাগ্রাম উচ্চ বিদ্যালয়",
+    "nameEn": "Jethagram High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "gokarna",
+    "village": "jethagram",
+    "established": 2003,
+    "eiin": "133843",
+    "head": "মোঃ আওলাদ হোসেন খান (২০২৪-এর তথ্য)",
+    "email": "jhs133843@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/133843",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%9C%E0%A7%87%E0%A6%A0%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-32c7a1-6991544835ce18e1c074177e",
+      "https://bn.wikipedia.org/wiki/নাসিরনগর_উপজেলা"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "nurpur-girls-high-school",
+    "name": "নুরপুর বালিকা উচ্চ বিদ্যালয়",
+    "nameEn": "Nurpur Girls High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "বালিকা",
+    "union": "gokarna",
+    "village": "nurpur",
+    "established": 1989,
+    "eiin": "103455",
+    "head": "মোঃ সফিজুল ইসলাম (২০২৪-এর তথ্য)",
+    "email": "s_103455@yahoo.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103455",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%A8%E0%A7%81%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-cbda6e-6991544735ce18e1c07416ce",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%A8%E0%A7%81%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-c607db-6991544735ce18e1c07416c6"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "nasirnagar-govt-girls-high-school",
+    "name": "নাসিরনগর সরকারি বালিকা উচ্চ বিদ্যালয়",
+    "nameEn": "Nasirnagar Govt. Girls' High School",
+    "type": "উচ্চ বিদ্যালয়",
+    "management": "সরকারি",
+    "gender": "বালিকা",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "established": 1970,
+    "eiin": "103445",
+    "head": "মোঃ মাঈন উদ্দিন ভূইয়া (২০২৪-এর তথ্য)",
+    "summary": "উপজেলার একমাত্র সরকারি মাধ্যমিক বিদ্যালয়, মেয়েদের জন্য।",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103445",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-e2dee5-6991544935ce18e1c07417e8"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "gouranga-mahaprabhu-secondary-school",
+    "name": "গৌরাঙ্গ মহাপ্রভু মাধ্যমিক বিদ্যালয়",
+    "nameEn": "Gouranga Mahaprabhu Madhyamic Bidyaloy",
+    "type": "নিম্ন মাধ্যমিক বিদ্যালয়",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "bhalakut",
+    "village": "baghi",
+    "established": 2012,
+    "eiin": "135619",
+    "head": "সুসেন চন্দ্র সাহাজী (২০২৪-এর তথ্য)",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/135619",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%97%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-6f0b09-6991544035ce18e1c074138e"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "khandura-islamia-dakhil-madrasa",
+    "name": "খান্দুরা ইসলামিয়া দাখিল মাদ্রাসা",
+    "nameEn": "Khandura Islamia Dakhil Madrasah",
+    "type": "মাদ্রাসা",
+    "level": "দাখিল",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "chapairtala",
+    "village": "khandura",
+    "established": 1996,
+    "eiin": "103463",
+    "head": "মোঃ জহিরুল ইসলাম (২০২৪-এর তথ্য)",
+    "email": "khanduramadrash@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103463",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "kachua-mirania-darbar-sharif-dakhil-madrasa",
+    "name": "মাদরাসা-ই-মিরানীয়া কচুয়া দরবার শরীফ দাখিল মাদরাসা",
+    "nameEn": "Madrasha-e-Mirania Kachoa Darbar Sharif Dakhil Madrasha",
+    "type": "মাদ্রাসা",
+    "level": "দাখিল",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "chatalpar",
+    "village": "kachuadighi",
+    "established": 1987,
+    "eiin": "103462",
+    "head": "মোঃ আহসানুল হক (২০২৪-এর তথ্য)",
+    "email": "103462m.kachua@gmail.com",
+    "website": "http://103462.ebmeb.gov.bd",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103462",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "haripur-sunnia-dakhil-madrasa",
+    "name": "হরিপুর সুন্নিয়া দাখিল মাদ্রাসা",
+    "nameEn": "Haripur Sunnia Dakhil Madrasha",
+    "type": "মাদ্রাসা",
+    "level": "দাখিল",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "haripur",
+    "village": "haripur",
+    "established": 1976,
+    "eiin": "103460",
+    "head": "মোঃ হারুনুর রশিদ চৌধুরী (২০২৪-এর তথ্য)",
+    "email": "haripursdm103460@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103460",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "jamia-motinia-sunnia-dakhil-madrasa",
+    "name": "জামিয়া মতিনিয়া সুন্নিয়া দাখিল মাদরাসা",
+    "nameEn": "Jamia Motinia Sunnia Dakhil Madrasah",
+    "type": "মাদ্রাসা",
+    "level": "দাখিল",
+    "management": "বেসরকারি",
+    "gender": "সহশিক্ষা",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "eiin": "140509",
+    "email": "jmotiniya@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/140509"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "datmandal-erfania-alim-madrasa",
+    "name": "দাঁতমন্ডল এরফানিয়া আলিম মাদরাসা",
+    "nameEn": "Dantmondal Arfania Alim Madrasah",
+    "type": "মাদ্রাসা",
+    "level": "দাখিল, আলিম",
+    "management": "বেসরকারি (এমপিওভুক্ত)",
+    "gender": "সহশিক্ষা",
+    "union": "nasirnagar",
+    "village": "datmandal",
+    "established": 1950,
+    "eiin": "103458",
+    "head": "মোঃ ইলিয়াছ মিয়া (২০২৪-এর তথ্য)",
+    "email": "m103458n@gmail.com",
+    "sources": [
+      "https://institute-search.ieims.banbeis.gov.bd/details/103458",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/69912e15516a96d4de408a5d",
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A6%A4%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2-%E0%A6%8F%E0%A6%B0%E0%A6%AB%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%86%E0%A6%B2%E0%A6%BF%E0%A6%AE-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE-4d82ef-6991545135ce18e1c0741b8b",
+      "https://bn.banglapedia.org/index.php?title=নাসিরনগর_উপজেলা"
+    ],
+    "updatedAt": "2026-10-08"
+  },
+  {
+    "slug": "baranagar-govt-primary-school",
+    "name": "বড়নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "baranagar",
+    "address": "বড়নগর গ্রামের পশ্চিমাংশে, উচ্চ বিদ্যালয় সংলগ্ন",
+    "established": 1930,
+    "head": "সৈয়দ মাহমুদুল ইসলাম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094240/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/3288b807-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A7%9C%E0%A6%A8%E0%A6%97%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dhantalia-govt-primary-school",
+    "name": "ধানতলিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "dhantalia",
+    "established": 1965,
+    "head": "নোমানুল হক সরকার (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094013/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/082336f6-214a-11e7-8f57-286ed488c766/%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%A4%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "gunjiakhai-govt-primary-school",
+    "name": "ঘুংগিয়াখাই সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "gunjiakhai-nurpur",
+    "established": 1967,
+    "head": "আব্দুস সাত্তার (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094017/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08271ded-214a-11e7-8f57-286ed488c766/%E0%A6%98%E0%A7%81%E0%A6%82%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%87%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fediarkandi-govt-primary-school",
+    "name": "ফেদিয়ার কান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "fediarkandi",
+    "established": 1940,
+    "head": "মো: রমিজ উদ্দিন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094022/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/082727e6-214a-11e7-8f57-286ed488c766/%E0%A6%AB%E0%A7%87%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kachua-govt-primary-school",
+    "name": "কচুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "established": 1938,
+    "head": "মোছা: হেনা বেগম (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094027/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/082ad36c-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%9A%E0%A7%81%E0%A7%9F%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kathalkandi-govt-primary-school",
+    "name": "কাঁঠালকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "nameEn": "Kathal Kandi Govt. Primary School",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "level": "৮ম শ্রেণি পর্যন্ত",
+    "management": "সরকারি",
+    "gender": "সহশিক্ষা",
+    "union": "chatalpar",
+    "village": "kanthalkandi",
+    "address": "উপজেলা সদর হতে প্রায় ২০ কি.মি পশ্চিমে, মেঘনা নদীর দক্ষিণ পাশে কাঠালকান্দি গ্রামের মধ্যস্থলে",
+    "established": 1934,
+    "eiin": "137853",
+    "head": "তৌহিন নাহার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094257/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/50ae40e9-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://institute-search.ieims.banbeis.gov.bd/details/137853",
+      "https://dpeo.brahmanbaria.gov.bd/pages/static-pages/6990e39c35ce18e1c0724055"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chatalpar-govt-primary-school",
+    "name": "চাতলপাড় সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "chatalpar",
+    "established": 1902,
+    "head": "মোঃ মহিউদ্দিন পাঠান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "ratanpur-govt-primary-school",
+    "name": "রতনপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "ratanpur",
+    "established": 1952,
+    "head": "মো: শাহ আলম (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094253/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/366d60a6-214a-11e7-8f57-286ed488c766/%E0%A6%B0%E0%A6%A4%E0%A6%A8%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fulkharkandi-govt-primary-school",
+    "name": "ফুলখারকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "fulkharkandi",
+    "established": 1973,
+    "head": "ফারজানা আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094247/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/3664ca49-214a-11e7-8f57-286ed488c766/%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%96%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "patair-govt-primary-school",
+    "name": "পতইর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "patair",
+    "established": 1980,
+    "head": "দিপালী রানী দেব (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094333/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/64eccabe-214a-11e7-8f57-286ed488c766/%E0%A6%AA%E0%A6%A4%E0%A6%87%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "ichhapur-chatalpar-govt-primary-school",
+    "name": "ইছাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "established": 1986,
+    "head": "আব্দুল মজিদ (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094338/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/64f7a6c0-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%9B%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fakirdia-govt-primary-school",
+    "name": "ফকিরদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "fakirdia",
+    "established": 1974,
+    "head": "আঞ্জুমান আরা বেগম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094343/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/64f7b176-214a-11e7-8f57-286ed488c766/%E0%A6%AB%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "jaynagar-govt-primary-school",
+    "name": "জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "jaynagar",
+    "established": 1988,
+    "head": "মোসা: রোকেয়া বেগম (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200121031250/http://chatalparup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094328/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/64ecbf8c-214a-11e7-8f57-286ed488c766/%E0%A6%9C%E0%A7%9F%E0%A6%A8%E0%A6%97%E0%A6%B0%20(%E0%A6%AC%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A6%BE)%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "north-dhantalia-auyal-kauchhar-govt-primary-school",
+    "name": "উত্তর ধানতলিয়া আউয়াল কাউছার সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chatalpar",
+    "village": "dhantalia",
+    "head": "মোঃ জয়নাল আবেদীন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "balikhola-govt-primary-school",
+    "name": "বালিখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "balikhola",
+    "address": "ভলাকুট ইউনিয়নের বালিখোলা গ্রামে",
+    "established": 1969,
+    "head": "শাহিনুর রহমান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094411/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/7c98418b-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "khagalia-govt-primary-school",
+    "name": "খাগালিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "khagalia",
+    "address": "ভলাকুট ইউনিয়নের খাগালিয়া গ্রামে",
+    "established": 1969,
+    "head": "আবু ইসহাক আল মামুন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094126/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0863fd3a-214a-11e7-8f57-286ed488c766/%E0%A6%96%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%20%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bhalakut-north-govt-primary-school",
+    "name": "ভলাকুট উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "bhalakut",
+    "address": "ভলাকুট গ্রামের উত্তর দিকে",
+    "established": 1940,
+    "head": "মোঃ শামসুদ্দিন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094036/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08367f64-214a-11e7-8f57-286ed488c766/%E0%A6%AD%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%9F%20%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bhalakut-south-govt-primary-school",
+    "name": "ভলাকুট দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "bhalakut",
+    "address": "ভলাকুট উচ্চ বিদ্যালয়ের ক্যাম্পাসে",
+    "established": 1929,
+    "head": "মোসাম্মৎ মাহমুদা আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094109/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/084eaffc-214a-11e7-8f57-286ed488c766/%E0%A6%AD%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%9F%20%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80%E0%A6%A3%20%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "baghi-govt-primary-school",
+    "name": "বাঘী সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "baghi",
+    "established": 1921,
+    "head": "অনুরাধা রানী সরকার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094131/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0867fc85-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A6%BE%E0%A6%98%E0%A7%80%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bhalakutkandi-govt-primary-school",
+    "name": "ভলাকুটকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "address": "ভলাকুট ৬ নং ওয়ার্ডে, লংগন নদীর তীরে",
+    "established": 1972,
+    "head": "মোঃ ওসমান গণি (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094123/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/085fe4e7-214a-11e7-8f57-286ed488c766/%E0%A6%AD%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%9F%20%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "durgapur-govt-primary-school",
+    "name": "দূর্গাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "established": 1980,
+    "head": "মো: মিজবাহ উদ্দিন খান (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094201/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08ad4d39-214a-11e7-8f57-286ed488c766/%E0%A6%A6%E0%A7%82%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "sadhan-govt-primary-school",
+    "name": "সাধন সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "sadhan",
+    "established": 1989,
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kuthui-govt-primary-school",
+    "name": "কুঠুই সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "kutai",
+    "address": "ভলাকুট ইউনিয়নের কুঠই গ্রামে",
+    "established": 1989,
+    "head": "মোহাম্মদ শামসুর রহমান (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094157/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0894ee68-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A7%81%E0%A6%A0%E0%A6%87%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "baghi-south-govt-primary-school",
+    "name": "বাঘী (দক্ষিণ) সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "baghi",
+    "established": 1987,
+    "head": "শরুফা বেগম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kandipara-govt-primary-school",
+    "name": "কান্দিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "kandipar",
+    "established": 1986,
+    "head": "জুবাইদা গুলশানারা (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094150/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0894e3d5-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%83%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "baraichira-govt-primary-school",
+    "name": "বাড়ৈইচিড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "baraichira",
+    "established": 1990,
+    "head": "স্বপ্না বিশ্বাস (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094206/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08b16131-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A7%88%E0%A6%87%E0%A6%9A%E0%A6%BF%E0%A7%9C%E0%A6%BE%20%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%20%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "khagalia-west-govt-primary-school",
+    "name": "খাগালিয়া পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "village": "khagalia",
+    "established": 1995,
+    "head": "পিযুষ কান্তি দাস (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094216/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08b16b60-214a-11e7-8f57-286ed488c766/%E0%A6%96%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%20%E0%A6%AA%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%AE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "purbabalikhola-govt-primary-school",
+    "name": "পূর্ববালীখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "bhalakut",
+    "address": "ভলাকুট ০২ নং ওয়ার্ডে, লংগন নদীর তীরে",
+    "established": 2011,
+    "head": "অনিতা রানী দাস (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206181102/http://bhalakutup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094324/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/56467175-214a-11e7-8f57-286ed488c766/%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kahetura-govt-primary-school",
+    "name": "কাহেতুরা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "kahetura",
+    "established": 1919,
+    "head": "মো: মোশারফ হোসেন (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093719/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04a4d55c-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "mahishber-govt-primary-school",
+    "name": "মহিষবেড় সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "mahishber",
+    "address": "কুন্ডা ইউনিয়নের মহিষবেড় গ্রামে",
+    "established": 1969,
+    "head": "মো: ছায়েদুল হক (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093732/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04ab15df-214a-11e7-8f57-286ed488c766/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%B7%E0%A6%AC%E0%A7%87%E0%A7%9C%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kunda-govt-primary-school",
+    "name": "কুন্ডা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "kunda",
+    "established": 1965,
+    "head": "সুরাইয়া জাহান (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093714/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04a4c9cd-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "masalandapur-govt-primary-school",
+    "name": "মসলন্দপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "machhlandapur",
+    "established": 1940,
+    "head": "মোঃ এমদাদ হোসেন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093729/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04ab0b28-214a-11e7-8f57-286ed488c766/%E0%A6%AE%E0%A6%9B%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bitai-govt-primary-school",
+    "name": "বিটই সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "bitai",
+    "address": "কুন্ডা ইউনিয়নে বিটই গ্রামে",
+    "established": 1967,
+    "head": "উদয় কুমার দত্ত (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094348/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/79cbafae-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%87%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "beruin-govt-primary-school",
+    "name": "বেরুইন সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "beruin",
+    "established": 1972,
+    "head": "মো: স্বপন সরকার (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093737/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04ae95f8-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A7%81%E0%A6%87%E0%A6%A8%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kunda-nayapara-govt-primary-school",
+    "name": "কুন্ডা নয়াপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "kunda",
+    "established": 1979,
+    "head": "মাউল ঝরনা (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093755/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04b21d88-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%20%E0%A6%A8%E0%A7%9F%E0%A6%BE%20%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20(%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%83)%20%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "tullapara-govt-primary-school",
+    "name": "তুল্লাপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "tullapara",
+    "address": "কুন্ডা ইউনিয়নের তুল্লাপাড়া গ্রামে",
+    "established": 1980,
+    "head": "মোঃ আলফাজ মিয়া (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108223725/http://kundaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093758/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04b2284a-214a-11e7-8f57-286ed488c766/%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "andrabaha-guchchhagram-govt-primary-school",
+    "name": "আন্দ্রাবহ গুচ্ছগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "kunda",
+    "village": "andrabaha",
+    "head": "পার্থ প্রতীম দাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "maijhkhola-govt-primary-school",
+    "name": "মাইঝখোলা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "maijkhola",
+    "established": 1945,
+    "head": "উসমান গনি (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181009013520/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04f01c91-214a-11e7-8f57-286ed488c766/%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kadamtali-govt-primary-school",
+    "name": "কদমতলী সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "kadamtali",
+    "established": 1969,
+    "head": "অছিউজ্জামান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093858/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04f0279b-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%A6%E0%A6%AE%E0%A6%A4%E0%A6%B2%E0%A7%80%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bhitadubi-govt-primary-school",
+    "name": "ভিটাডুবী সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "bhitadubi",
+    "established": 1870,
+    "head": "মো: আব্দুল গফুর (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093847/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04eb6331-214a-11e7-8f57-286ed488c766/%E0%A6%AD%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%A1%E0%A7%81%E0%A6%AA%E0%A6%BF%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "goalnagar-govt-primary-school",
+    "name": "গোয়ালনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "goalnagar",
+    "established": 1964,
+    "head": "মনিরুজ্জামান (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093834/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04e71434-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A6%B0%20%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "noagaon-govt-primary-school",
+    "name": "নোয়াগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "noagaon",
+    "established": 1973,
+    "head": "মোঃ মফিজুল ইসলাম ভূঞা (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093839/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04e71e84-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%93%E0%A6%81%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "sonatala-govt-primary-school",
+    "name": "সোনাতলা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "sonatala",
+    "established": 1973,
+    "head": "সঞ্জিব কুমার দাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093921/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04fc30cf-214a-11e7-8f57-286ed488c766/%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "laluartuk-govt-primary-school",
+    "name": "লালুয়ারটুক সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "laluartuk",
+    "established": 1977,
+    "head": "রেহান উদ্দিন (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093842/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04eb58c0-214a-11e7-8f57-286ed488c766/%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%9F%E0%A7%81%E0%A6%95%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "rampur-govt-primary-school",
+    "name": "রামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "rampur",
+    "established": 1982,
+    "head": "আবুল কাশেম ফজলুল হক (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093916/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04f8084e-214a-11e7-8f57-286ed488c766/%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "jhamarbali-govt-primary-school",
+    "name": "ঝামারবালী সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "jhamarbali",
+    "established": 1988,
+    "head": "মোঃ বোরহান উদ্দিন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093901/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04f3a2c2-214a-11e7-8f57-286ed488c766/%E0%A6%9D%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%80%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "machhma-govt-primary-school",
+    "name": "মাছমা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "machhma",
+    "established": 1984,
+    "head": "জয়নাল আবেদীন (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093911/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04f7fddb-214a-11e7-8f57-286ed488c766/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%AE%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dakshindia-govt-primary-school",
+    "name": "দক্ষিণদিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "goalnagar",
+    "village": "dakshindia",
+    "established": 2000,
+    "head": "মোঃ ওমর ফারুক (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015093907/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04f3acd4-214a-11e7-8f57-286ed488c766/%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "datmandal-govt-primary-school",
+    "name": "দাঁতমন্ডল সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "datmandal",
+    "established": 1951,
+    "head": "মোঃ মশিউর রহমান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013421/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03e358cf-214a-11e7-8f57-286ed488c766/%E0%A6%A6%E0%A6%BE%E0%A6%A4%E0%A6%81%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nasirpur-govt-primary-school",
+    "name": "নাসিরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "nasirpur",
+    "established": 1948,
+    "head": "সিক্তা রানী রায় (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093543/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03dad139-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nasirnagar-model-govt-primary-school",
+    "name": "নাসিরনগর মডেল সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "established": 1942,
+    "head": "অজিত কুমার দাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nasirnagar-girls-govt-primary-school",
+    "name": "নাসিরনগর বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "head": "এ বি এম ছালেম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013206/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03dac703-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%A8%E0%A6%97%E0%A6%B0%20%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A7%80%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4",
+      "https://dpeo.brahmanbaria.gov.bd/pages/static-pages/699143a2516a96d4de4125cb"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "tekanagar-govt-primary-school",
+    "name": "টেকানগর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "tekanagar",
+    "established": 1973,
+    "head": "রওশন আরা রীনা (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013429/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03e362eb-214a-11e7-8f57-286ed488c766/%E0%A6%9F%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%97%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kulikunda-north-govt-primary-school",
+    "name": "কুলিকুন্ডা উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "kulikunda",
+    "established": 1956,
+    "head": "মাকসুদুল হক পাঠান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013213/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03e01968-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%20%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kulikunda-south-govt-primary-school",
+    "name": "কুলিকুন্ডা দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "kulikunda",
+    "established": 1973,
+    "head": "উম্মে সালমা (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093547/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03e02396-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%20%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A8%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fulpur-govt-primary-school",
+    "name": "ফুলপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "fulpur",
+    "established": 1946,
+    "head": "মোঃ নজরুল ইসলাম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013437/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03e69e21-214a-11e7-8f57-286ed488c766/%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kamargaon-govt-primary-school",
+    "name": "কামারগাঁও সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "kamargaon",
+    "address": "নাসিরনগর সদর ইউনিয়নের কামারগাওঁ গ্রামে",
+    "established": 1980,
+    "head": "শশাংক শেখর দাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013500/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03ea65f0-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%93%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nasirpur-west-govt-primary-school",
+    "name": "নাসিরপুর পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "nasirpur",
+    "established": 1989,
+    "head": "অজিত কুমার রায় (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013452/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03ea5bba-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%B0%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dhankura-govt-primary-school",
+    "name": "ধনকুড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "nasirnagar",
+    "village": "dhankura",
+    "established": 1990,
+    "head": "কৃষ্ণা রানী দাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109010903/http://nasirnagarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013446/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03e6a89b-214a-11e7-8f57-286ed488c766/%E0%A6%A7%E0%A6%A8%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BE%20%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "ashurail-govt-primary-school",
+    "name": "আশুরাইল সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "ashurail",
+    "head": "সৈয়দ মিয়া (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010835/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0199a624-214a-11e7-8f57-286ed488c766/%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B2%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "srighar-north-govt-primary-school",
+    "name": "শ্রীঘর উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "srighar",
+    "head": "মোহাম্মদ আনিসুল ইসলাম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010843/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0199b04b-214a-11e7-8f57-286ed488c766/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%98%E0%A6%B0%20%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "srighar-south-govt-primary-school",
+    "name": "শ্রীঘর দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "srighar",
+    "address": "বুড়িশ্বর ইউনিয়নের শ্রীঘর গ্রামে",
+    "established": 1937,
+    "head": "রেবেকা সুলতানা (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181010135352/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/019d07ff-214a-11e7-8f57-286ed488c766/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%98%E0%A6%B0%20%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "tilpara-govt-primary-school",
+    "name": "তিলপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "tilpara",
+    "address": "বুড়িশ্বর ইউনিয়নের তিলপাড়া গ্রামে",
+    "established": 1939,
+    "head": "দীপেশ চন্দ্র দাশ গুপ্ত (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010857/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01a09a26-214a-11e7-8f57-286ed488c766/%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "lakshmipur-govt-primary-school",
+    "name": "লক্ষ্মীপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "uttar-lakshmipur",
+    "address": "বুড়িশ্বর ইউনিয়নের লক্ষীপুর গ্রামে",
+    "established": 1939,
+    "head": "গুলশানা আক্তার (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010905/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01a0a599-214a-11e7-8f57-286ed488c766/%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "singhagram-south-govt-primary-school",
+    "name": "সিংহগ্রাম দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "dakshin-singhagram",
+    "address": "বুড়িশ্বর ইউনিয়নের দক্ষিণ সিংহগ্রামে",
+    "established": 1936,
+    "head": "সুপ্রীতি রানী হালদার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010912/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01a392fb-214a-11e7-8f57-286ed488c766/%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%20%E0%A6%A6%E0%A6%83%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "buriswar-govt-primary-school",
+    "name": "বুড়িশ্বর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "buriswar",
+    "established": 1939,
+    "head": "ফরহাদ আহাম্মদ চৌধুরী (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010850/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/019d13ff-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A7%81%E0%A7%9C%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bhatpara-govt-primary-school",
+    "name": "ভাটপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "uttar-bhatpara",
+    "head": "শাহিনা বেগম (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013018/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01a661f9-214a-11e7-8f57-286ed488c766/%E0%A6%AD%E0%A6%BE%E0%A6%9F%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%83%20%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%B0%E0%A6%83%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%85%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bholauk-govt-primary-school",
+    "name": "ভোলাউক সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "bholauk",
+    "established": 1974,
+    "head": "দুলন রানী রায় (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013033/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01aa99a4-214a-11e7-8f57-286ed488c766/%E0%A6%AD%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%89%E0%A6%95%20%E0%A6%B0%E0%A6%9C%E0%A6%BF%E0%A6%83%20%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%B0%E0%A6%83%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "ganganagar-govt-primary-school",
+    "name": "গংগানগর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "ganganagar",
+    "address": "বুড়িশ্বর ইউনিয়নের গংগা নগর গ্রামে",
+    "established": 1973,
+    "head": "মোঃ আব্দুল করিম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013042/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01aaa3f1-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A6%82%E0%A6%97%E0%A6%BE%20%E0%A6%A8%E0%A6%97%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "ichhapur-govt-primary-school",
+    "name": "ইছাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "ichhapur",
+    "address": "বুড়িশ্বর ইউনিয়নের ইছাপুর গ্রামে",
+    "established": 1989,
+    "head": "মোঃ আব্দুল কুদ্দুস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013025/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01a66c85-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%9B%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "benipara-govt-primary-school",
+    "name": "বেনীপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "benipara",
+    "address": "বুড়িশ্বর ইউনিয়নের বেনীপাড়া গ্রামে",
+    "established": 1994,
+    "head": "জাহানারা আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108222926/http://burishwarup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013051/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/01ad724b-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "alakpur-lalmohan-govt-primary-school",
+    "name": "আলাকপুর লালমোহন সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "buriswar",
+    "village": "alakpur",
+    "head": "চিত্ত রঞ্জন দাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "singhagram-north-govt-primary-school",
+    "name": "সিংহগ্রাম উত্তর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "fandauk",
+    "village": "uttar-singhagram",
+    "address": "ফান্দাউক ইউনিয়নের সিংহগ্রাম (উত্তর)",
+    "established": 1967,
+    "head": "চন্দনা রানী ভৌমিক (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108051603/http://fandaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013109/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/02420df8-214a-11e7-8f57-286ed488c766/%20%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%20%E0%A6%89%E0%A6%93%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fandauk-west-govt-primary-school",
+    "name": "ফান্দাউক পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "fandauk",
+    "village": "fandauk",
+    "established": 1938,
+    "head": "জাহানারা বেগম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108051603/http://fandaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fandauk-east-govt-primary-school",
+    "name": "ফান্দাউক পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "fandauk",
+    "village": "fandauk",
+    "established": 1972,
+    "head": "শামীমা আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108051603/http://fandaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181010135345/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0017218e-214a-11e7-8f57-286ed488c766/%E0%A6%AB%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%89%E0%A6%95%20%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%20%E0%A6%9C%E0%A7%9F%E0%A6%A8%E0%A6%AC%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "atukura-govt-primary-school",
+    "name": "আতুকুড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "fandauk",
+    "village": "atukura",
+    "established": 1938,
+    "head": "মোহাম্মদ নাজমুল হুদা (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108051603/http://fandaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013059/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/024201fe-214a-11e7-8f57-286ed488c766/%E0%A6%86%E0%A6%A4%E0%A7%81%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fandauk-rishipara-govt-primary-school",
+    "name": "ফান্দাউক ঋষিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "fandauk",
+    "village": "fandauk",
+    "established": 1973,
+    "head": "শিরীনা আক্তার চৌধুরী (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108051603/http://fandaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013116/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/02459ebc-214a-11e7-8f57-286ed488c766/%E0%A6%AB%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%89%E0%A6%95%20%E0%A6%8B%E0%A6%B7%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "khandura-govt-primary-school",
+    "name": "খান্দুরা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chapairtala",
+    "village": "khandura",
+    "established": 1939,
+    "head": "বিলকিছ আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20171209154959/http://chapartalaup.brahmanbaria.gov.bd:80/site/view/primary_school",
+      "https://web.archive.org/web/20181015094229/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0aaddb43-214a-11e7-8f57-286ed488c766/%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A6%BE%20%E0%A6%B8%E0%A6%83%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%83%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "garauk-govt-primary-school",
+    "name": "গাড়াউক সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chapairtala",
+    "village": "garauk",
+    "established": 1972,
+    "head": "অঞ্জন কুমার বিশ্বাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20171209154959/http://chapartalaup.brahmanbaria.gov.bd:80/site/view/primary_school"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chapartala-east-govt-primary-school",
+    "name": "চাপরতলা (পূর্ব) সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chapairtala",
+    "village": "chapairtala",
+    "head": "হিমানী রানী দাস (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20171209154959/http://chapartalaup.brahmanbaria.gov.bd:80/site/view/primary_school",
+      "https://web.archive.org/web/20181015094104/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08468896-214a-11e7-8f57-286ed488c766/%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%B0%E0%A6%A4%E0%A6%B2%E0%A6%BE%20%E0%A6%AA%E0%A7%82%E0%A6%AC%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%83%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chapartala-west-govt-primary-school",
+    "name": "চাপরতলা (পশ্চিম) সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chapairtala",
+    "village": "chapairtala",
+    "established": 1977,
+    "head": "সন্তোষ কুমার বিশ্বাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20171209154959/http://chapartalaup.brahmanbaria.gov.bd:80/site/view/primary_school",
+      "https://web.archive.org/web/20181015094224/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0aadd079-214a-11e7-8f57-286ed488c766/%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%B0%E0%A6%A4%E0%A6%B2%E0%A6%BE%20(%E0%A6%AA%E0%A6%83)%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kaliuta-govt-primary-school",
+    "name": "কালিউতা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chapairtala",
+    "village": "kaliuta",
+    "established": 1940,
+    "head": "লুবনা বেগম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20171209154959/http://chapartalaup.brahmanbaria.gov.bd:80/site/view/primary_school",
+      "https://web.archive.org/web/20181015094237/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0ab31297-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%89%E0%A6%A4%E0%A6%BE%20%E0%A6%B8%E0%A6%83%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%83%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "uriyain-govt-primary-school",
+    "name": "উড়িয়াইন সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "chapairtala",
+    "village": "uriain",
+    "head": "মো: আরিছ মিয়া (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chitna-govt-primary-school",
+    "name": "চিতনা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "guniauk",
+    "village": "chitna",
+    "address": "গুনিয়াউক ইউনিয়নের চিতনা গ্রামে",
+    "established": 1969,
+    "head": "সমরেন্দ্র রায় (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109031116/http://goniaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094042/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/083a678c-214a-11e7-8f57-286ed488c766/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A6%A8%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "gutma-govt-primary-school",
+    "name": "গুটমা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "guniauk",
+    "village": "gutma",
+    "established": 1972,
+    "head": "বিজয় কুমার সরকার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109031116/http://goniaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094316/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/54511039-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A7%81%E0%A6%9F%E0%A6%AE%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "guniauk-govt-primary-school",
+    "name": "গুণিয়াউক সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "guniauk",
+    "village": "guniauk",
+    "address": "উপজেলা সদর হতে পূর্ব দিকে প্রায় ১৫ কিলোমিটার দূরে রাস্তার পাশে",
+    "established": 1897,
+    "head": "নুরানী বেগম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109031116/http://goniaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094032/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08366f7e-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%89%E0%A6%95%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nishchintapur-govt-primary-school",
+    "name": "নিশ্চিন্তপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "guniauk",
+    "village": "bara-nishchintapur",
+    "established": 1990,
+    "head": "মো: সাহাব উদ্দিন আহম্মদ (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109031116/http://goniaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094052/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08428e3d-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chitna-east-govt-primary-school",
+    "name": "চিতনা (পূর্ব) সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "guniauk",
+    "village": "chitna",
+    "address": "গুনিয়াউক ইউনিয়নের চিতনা গ্রামে",
+    "established": 1990,
+    "head": "মো: নূর আলম শেখ (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109031116/http://goniaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094100/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/08429888-214a-11e7-8f57-286ed488c766/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A6%A8%E0%A6%BE(%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC)%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "guniauk-south-govt-primary-school",
+    "name": "গুনিয়াউক (দক্ষিণ) সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "guniauk",
+    "village": "guniauk",
+    "established": 1990,
+    "head": "মোঃ রুকন উদ্দিন (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20191109031116/http://goniaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094047/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/083ebe89-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%89%E0%A6%95%20(%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A8)%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "gokarna-east-govt-primary-school",
+    "name": "গোকর্ণ পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "gokarna",
+    "established": 1940,
+    "head": "নার্গিস আরা বেগম (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010327/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/00261885-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A7%8B%E0%A6%95%E0%A6%A3%20%E0%A6%AA%E0%A7%82%E0%A6%AC%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "gokarna-west-govt-primary-school",
+    "name": "গোকর্ণ পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "gokarna",
+    "address": "গোকর্ণ ইউনিয়নের গোকর্ণ গ্রামে",
+    "established": 1939,
+    "head": "রোসেনা আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010334/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0028d2b1-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A7%87%E0%A6%BE%E0%A6%95%E0%A6%A3%20%E0%A6%AA:%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nurpur-govt-primary-school",
+    "name": "নূরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "nurpur",
+    "address": "নাসিরনগর-মাধবপুর সড়কের পশ্চিম পাশে, নুরপুর গ্রামের দক্ষিণ পাশে (উপজেলা সদর থেকে ৫ কি.মি দক্ষিণে)",
+    "established": 1906,
+    "head": "মাহবুব হায়দার খান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094408/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/7a963c15-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A7%82%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nurpur-west-govt-primary-school",
+    "name": "নূরপুর পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "nurpur",
+    "address": "গোকর্ণ ইউনিয়নের নূরপুর গ্রামে ভূইয়া পাড়ায়",
+    "established": 1973,
+    "head": "অঞ্জলী রানী দেব (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094402/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/7a8a0ad9-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A7%82%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%AA%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%AE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nurpur-lahajura-govt-primary-school",
+    "name": "নূরপুর লাহাজুড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "address": "গোকর্ণ ইউনিয়নের নুরপুর লাহাজুরা গ্রামে",
+    "established": 1973,
+    "head": "দ্বীপক বর্ধন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010348/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/002c1fae-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A7%82%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B2%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chatipara-govt-primary-school",
+    "name": "চটিপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "chatipara",
+    "established": 1915,
+    "head": "অঞ্জন কুমার দেব (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094353/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/79f181f1-214a-11e7-8f57-286ed488c766/%E0%A6%9A%E0%A6%9F%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A5%A4"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "jethagram-govt-primary-school",
+    "name": "জেঠাগ্রাম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "jethagram",
+    "address": "গোকর্ণ ইউনিয়নের জেঠাগ্রামে",
+    "head": "নাছির উদ্দির আহাম্মদ (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015094426/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/fa039756-2149-11e7-8f57-286ed488c766/%E0%A6%9C%E0%A7%87%E0%A6%A0%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dighar-govt-primary-school",
+    "name": "ডিঘর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "dighar",
+    "address": "গোকর্ণ ইউনিয়নের ডিঘর গ্রামে",
+    "established": 1939,
+    "head": "মোঃ হাবিবুর রহমান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010807/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/002f2625-214a-11e7-8f57-286ed488c766/%E0%A6%A1%E0%A6%BF%E0%A6%98%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "suchiura-govt-primary-school",
+    "name": "সূচীউড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "suchiura",
+    "address": "চৈয়ারকুড়ি–মাধবপুর রাস্তা সংলগ্ন সূচীউড়া গ্রামে",
+    "established": 1973,
+    "head": "বিশ্বনাথ দেব (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010402/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/002f1ace-214a-11e7-8f57-286ed488c766/%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A7%80%E0%A6%89%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chaiyarkuri-govt-primary-school",
+    "name": "চৈয়ারকুড়ি সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "chaiyarkuri",
+    "address": "চৈয়ারকুড়ি বাজার থেকে হেঁটে ৫ মিনিট পশ্চিমে, গ্রামের মধ্যভাগের উত্তর দিকে",
+    "established": 1978,
+    "head": "ছন্দা মনি রায় (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "students": 179,
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010821/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/00381fb6-214a-11e7-8f57-286ed488c766/%E0%A6%9A%E0%A7%88%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BF%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://gokarnaup.brahmanbaria.gov.bd/pages/education-institutes/%E0%A6%9A%E0%A7%88%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-932a47-6991545035ce18e1c0741b19",
+      "https://web.archive.org/web/20251219235502/https://gokarnaup.brahmanbaria.gov.bd/bn/site/view/education_institute"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "brahmanshasan-govt-primary-school",
+    "name": "ব্রাহ্মণশাসন সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "brahmanshasan",
+    "established": 1976,
+    "head": "মোঃ জামাল উদ্দিন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108062657/http://gokarnaup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009010829/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/003aeae7-214a-11e7-8f57-286ed488c766/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%20%E0%A6%B0%E0%A7%87:%E0%A6%9C%E0%A6%BF:%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "jethagram-west-govt-primary-school",
+    "name": "জেঠাগ্রাম পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "gokarna",
+    "village": "jethagram",
+    "head": "নেছার আহম্মদ (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "bhuban-govt-primary-school",
+    "name": "ভূবন সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "bhuban",
+    "established": 1939,
+    "head": "সুলেমা বেগম (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013159/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03c54a26-214a-11e7-8f57-286ed488c766/%E0%A6%AD%E0%A7%81%E0%A6%AC%E0%A6%A8%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "kipatnagar-govt-primary-school",
+    "name": "কিপাতনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "kifatnagar",
+    "established": 1973,
+    "head": "হোসাইন আহম্মদ (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20170621090231/http://purbabhagup.brahmanbaria.gov.bd:80/site/education_institute/036ec33f-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A6%97%E0%A6%B0+%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95+%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "koyarpur-govt-primary-school",
+    "name": "কোয়ারপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "koyarpur",
+    "address": "কোয়ারপুর, ডাক: ভুবন মদ্রাসা",
+    "established": 1939,
+    "head": "মেজবাহ উদ্দিন আহামদ (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181009013153/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03bd32b2-214a-11e7-8f57-286ed488c766/%E0%A6%95%E0%A7%8B%E0%A7%9F%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "chanderpara-govt-primary-school",
+    "name": "চান্দেরপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "chanderpara",
+    "address": "চান্দেরপাড়, পূর্বভাগ",
+    "established": 1962,
+    "head": "ছগীর আহাম্মদ (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093552/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/040470bb-214a-11e7-8f57-286ed488c766/%E0%A6%9A%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "purbabhag-govt-primary-school",
+    "name": "পূর্বভাগ সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "purbabhag",
+    "established": 1989,
+    "head": "আব্দুল হক (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093605/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04088d8f-214a-11e7-8f57-286ed488c766/%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%AD%E0%A6%BE%E0%A6%97%20%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%83%20%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%B0%E0%A6%83%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "shyampur-govt-primary-school",
+    "name": "শ্যামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "shyampur",
+    "address": "পূর্বভাগ ইউনিয়নের শ্যামপুর গ্রামে",
+    "established": 1989,
+    "head": "মোহাম্মদ মুজিবুর রহমান (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093601/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04047c5e-214a-11e7-8f57-286ed488c766/%E0%A7%AF%E0%A7%AB%E0%A6%A8%E0%A6%82%20%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "belua-govt-primary-school",
+    "name": "বেলুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "belua",
+    "address": "পূর্বভাগ ইউনিয়নের বেলুয়া গ্রামে",
+    "established": 1985,
+    "head": "লিপি রানী সাহা (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093609/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/040c9e62-214a-11e7-8f57-286ed488c766/105%E0%A6%A8%E0%A6%82%20%E0%A6%AC%E0%A7%87%E0%A6%B2%E0%A7%81%E0%A7%9F%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "purbabhag-south-govt-primary-school",
+    "name": "পূর্বভাগ দক্ষিণ সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "purbabhag",
+    "address": "পূর্বভাগ দক্ষিণ গ্রামে",
+    "established": 1989,
+    "head": "তাছলিমা বেগম (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20170619210428/http://purbabhagup.brahmanbaria.gov.bd:80/site/education_institute/04009e77-214a-11e7-8f57-286ed488c766/%E0%A7%A7%E0%A7%A7%E0%A7%A7%E0%A6%A8%E0%A6%82+%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%AD%E0%A6%BE%E0%A6%97+%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3+%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80+%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95+%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "mukbulpur-govt-primary-school",
+    "name": "মুকবুলপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "purbabhag",
+    "village": "makbulpur",
+    "established": 1996,
+    "head": "মোঃ আমীর আলী ভূঞা (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200108151327/http://purbabhagup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093616/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04119ebb-214a-11e7-8f57-286ed488c766/%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%9F%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "naraha-govt-primary-school",
+    "name": "নরহা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "haripur",
+    "village": "naraha",
+    "address": "নরহা গ্রামের পূর্বপাশে; পো: হরিণবেড় বাজার",
+    "established": 1988,
+    "head": "মোঃ ফাতেহুর রহমান খান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093641/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0467c5c2-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A6%B0%E0%A6%B9%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "harinber-govt-primary-school",
+    "name": "হরিণবেড় সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "haripur",
+    "village": "harinber",
+    "established": 1969,
+    "head": "রেহেনা পারভীন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "haripur-govt-primary-school",
+    "name": "হরিপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "nameEn": "Haripur Govt. Primary School",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "level": "৮ম শ্রেণি পর্যন্ত",
+    "management": "সরকারি",
+    "gender": "সহশিক্ষা",
+    "union": "haripur",
+    "village": "haripur",
+    "established": 1935,
+    "eiin": "137288",
+    "head": "মোঃ কামাল উদ্দিন (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "email": "haripurgps137288@gmail.com",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093623/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0418df13-214a-11e7-8f57-286ed488c766/%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://institute-search.ieims.banbeis.gov.bd/details/137288",
+      "https://dpeo.brahmanbaria.gov.bd/pages/static-pages/6990e39c35ce18e1c0724055"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "shankardaha-govt-primary-school",
+    "name": "শংকরাদহ সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "haripur",
+    "village": "shankardaha",
+    "established": 1973,
+    "head": "সম্পা মনি রায় (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093627/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/041c51bc-214a-11e7-8f57-286ed488c766/%E0%A6%B6%E0%A6%82%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A6%B9%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "aliara-govt-primary-school",
+    "name": "আলীয়ারা সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "haripur",
+    "village": "aliara",
+    "address": "হরিপুর ইউনিয়নের আলীয়ারা গ্রামে",
+    "established": 1952,
+    "head": "মোহাম্মদ মাহবুবুর রহমান (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093644/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0470db01-214a-11e7-8f57-286ed488c766/%E0%A6%86%E0%A6%B2%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "rostampur-govt-primary-school",
+    "name": "রোস্তমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "haripur",
+    "village": "rustampur",
+    "established": 1974,
+    "head": "পংকজ কান্তি দাস (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093710/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/04796d16-214a-11e7-8f57-286ed488c766/%E0%A6%B0%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "jarua-govt-primary-school",
+    "name": "জারুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "haripur",
+    "village": "jarua",
+    "address": "হরিপুর ইউনিয়নের জারুয়া গ্রামে",
+    "established": 1989,
+    "head": "মাফিয়া আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093650/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0474a53c-214a-11e7-8f57-286ed488c766/%20%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A7%9F%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "naraha-east-govt-primary-school",
+    "name": "নরহা পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "haripur",
+    "village": "naraha",
+    "established": 1988,
+    "head": "শিবানী রানী দাস (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200206130723/http://www.haripurup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093657/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0474b182-214a-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A6%B0%E0%A6%B9%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "daulatpur-govt-primary-school",
+    "name": "দৌলতপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "daulatpur",
+    "established": 1949,
+    "head": "গৌরী রানী বনিক (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dharmandal-west-govt-primary-school",
+    "name": "ধরমন্ডল পশ্চিম সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "dharmandal",
+    "established": 1953,
+    "head": "মনি রানী চৌধুরী (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200122042807/http://www.dharnondolup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093934/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/053a1a0c-214a-11e7-8f57-286ed488c766/%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2%20%E0%A6%AA%E0%A6%83%E0%A6%B8%E0%A6%83%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%83%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dharmandal-east-govt-primary-school",
+    "name": "ধরমন্ডল পূর্ব সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "dharmandal",
+    "established": 1940,
+    "head": "মোঃ তাজুল ইসলাম (চলতি দায়িত্ব; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200122042807/http://www.dharnondolup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093926/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/053a0ed9-214a-11e7-8f57-286ed488c766/%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2%20%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%82%E0%A6%AC%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dharmandal-new-govt-primary-school",
+    "name": "ধরমন্ডল নূতন সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "dharmandal",
+    "established": 1973,
+    "head": "বিমল চন্দ্র রায় (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200122042807/http://www.dharnondolup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093937/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/053dfb61-214a-11e7-8f57-286ed488c766/%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2%20%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8%20%E0%A6%B8%E0%A6%83%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%83%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "saiyauk-govt-primary-school",
+    "name": "সাইয়াউক সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "saiyauk",
+    "established": 1974,
+    "head": "মোঃ দরবেশ মিয়া (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200122042807/http://www.dharnondolup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093943/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/053e064e-214a-11e7-8f57-286ed488c766/%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%89%E0%A6%95%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "ganna-govt-primary-school",
+    "name": "গন্না সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "ganna",
+    "established": 1979,
+    "head": "মো: আব্দুর কাদির (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200122042807/http://www.dharnondolup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093955/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/05418e94-214a-11e7-8f57-286ed488c766/%E0%A6%97%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "dharmandal-north-talukdarpara-govt-primary-school",
+    "name": "ধরমন্ডল (উত্তর) তালুকদারপাড়া সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "dharmandal",
+    "established": 1990,
+    "head": "মারজান আক্তার (৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200122042807/http://www.dharnondolup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015093952/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/05418453-214a-11e7-8f57-286ed488c766/%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2%20%E0%A6%89%E0%A6%83%20%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%83%20%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%83%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%83",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "deorat-govt-primary-school",
+    "name": "দেওরত সরকারি প্রাথমিক বিদ্যালয়",
+    "type": "প্রাথমিক বিদ্যালয়",
+    "management": "সরকারি",
+    "union": "dharmandal",
+    "village": "deorath",
+    "established": 1994,
+    "head": "সাবিনা ইয়াসমিন (ভারপ্রাপ্ত; ৩০ এপ্রিল ২০২৪-এর তথ্য)",
+    "sources": [
+      "https://nasirnagar.brahmanbaria.gov.bd/pages/static-pages/6990ef3635ce18e1c072c441",
+      "https://web.archive.org/web/20200122042807/http://www.dharnondolup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC",
+      "https://web.archive.org/web/20181015094009/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/0545281d-214a-11e7-8f57-286ed488c766/%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A6%B0%E0%A6%A4%20%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F",
+      "https://web.archive.org/web/20181015085856/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/03837a93-214a-11e7-8f57-286ed488c766/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%83%20%E0%A6%A7%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "fandauk-morning-sun-kindergarten",
+    "name": "ফান্দাউক মর্নিং সান কিন্ডার গার্টেন",
+    "type": "অন্যান্য",
+    "level": "কিন্ডারগার্টেন",
+    "union": "fandauk",
+    "village": "fandauk",
+    "established": 2003,
+    "head": "নান্টু দেব (জানুয়ারি ২০২০-এর তথ্য)",
+    "sources": [
+      "https://web.archive.org/web/20200108051603/http://fandaukup.brahmanbaria.gov.bd:80/site/view/primary_school/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "nasirnagar-shishu-kanon",
+    "name": "নাসিরনগর শিশু কানন",
+    "type": "অন্যান্য",
+    "level": "কিন্ডারগার্টেন",
+    "management": "উপজেলা পরিষদ নিয়ন্ত্রিত",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "address": "উপজেলা সদর",
+    "established": 2000,
+    "sources": [
+      "https://web.archive.org/web/20181010215427/http://nasirnagar.brahmanbaria.gov.bd:80/site/view/primary_school?page=7&rows=20",
+      "https://web.archive.org/web/20181015094440/http://nasirnagar.brahmanbaria.gov.bd:80/site/education_institute/fb7eb205-2149-11e7-8f57-286ed488c766/%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%A8%E0%A6%97%E0%A6%B0%20%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%20%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%A8"
+    ],
+    "updatedAt": "2026-10-13"
+  },
+  {
+    "slug": "ilst-nasirnagar",
+    "name": "ইনস্টিটিউট অব লাইভস্টক সায়েন্স এন্ড টেকনোলজি, নাসিরনগর",
+    "nameEn": "Institute of Livestock Science and Technology, Nasirnagar",
+    "type": "কারিগরি প্রতিষ্ঠান",
+    "management": "সরকারি (মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়)",
+    "union": "nasirnagar",
+    "village": "nasirnagar",
+    "summary": "প্রাণিসম্পদ বিষয়ের সরকারি কারিগরি শিক্ষাপ্রতিষ্ঠান, উপজেলা সদরে।",
+    "sources": [
+      "https://commons.wikimedia.org/wiki/File:Nasirnagar_ilst_College.jpg",
+      "https://commons.wikimedia.org/wiki/File:%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%86%E0%A6%87,%E0%A6%8F%E0%A6%B2,%E0%A6%8F%E0%A6%B8,%E0%A6%9F%E0%A6%BF.jpg",
+      "https://commons.wikimedia.org/wiki/File:%E0%A6%86%E0%A6%87,%E0%A6%8F%E0%A6%B2,%E0%A6%8F%E0%A6%B8,%E0%A6%9F%E0%A6%BF_%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.jpg",
+      "https://www.wikidata.org/wiki/Q118116081"
+    ],
+    "images": [
+      {
+        "src": "/images/schools/ilst-nasirnagar/1.jpg",
+        "caption": "ইনস্টিটিউটের ভবন, জানুয়ারি ২০২৫"
+      },
+      {
+        "src": "/images/schools/ilst-nasirnagar/2.jpg",
+        "caption": "ধানখেতের ওপার থেকে ক্যাম্পাস"
+      }
+    ],
+    "lat": 24.1916,
+    "lng": 91.1921,
+    "updatedAt": "2026-10-13"
+  }
+]

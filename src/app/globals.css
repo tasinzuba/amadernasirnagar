@@ -1,0 +1,205 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* ইংরেজি অক্ষর Plus Jakarta Sans-এ, বাংলা অক্ষর বাংলা ফন্টে (ব্রাউজার অক্ষর ধরে বেছে নেয়) */
+  --font-sans: var(--font-jakarta), var(--font-hind), "Hind Siliguri", system-ui, sans-serif;
+  --font-display: var(--font-jakarta), var(--font-anek), "Anek Bangla", var(--font-hind), system-ui, sans-serif;
+}
+
+@theme {
+  /* রেফারেন্স (Agencypro X) অনুযায়ী: brand = নেভি থেকে ল্যাভেন্ডার, accent = কোরাল, ink = লেখার ধূসর */
+  --color-brand-50: #f5f7fc;
+  --color-brand-100: #eff0f6;
+  --color-brand-200: #d9dbe9;
+  --color-brand-300: #a0a3bd;
+  --color-brand-400: #6e7191;
+  --color-brand-500: #4e4b66;
+  --color-brand-600: #3a3958;
+  --color-brand-700: #2a2948;
+  --color-brand-800: #1c1b38;
+  --color-brand-900: #14142b;
+  --color-brand-950: #0d0d22;
+
+  --color-accent-50: #fff0f2;
+  --color-accent-100: #ffdfe3;
+  --color-accent-200: #ffc0c9;
+  --color-accent-300: #ff8b9a;
+  --color-accent-400: #ff5d70;
+  --color-accent-500: #ff3951;
+  --color-accent-600: #e02a44;
+  --color-accent-700: #b91f36;
+  --color-accent-800: #951a2d;
+  --color-accent-900: #7a1827;
+
+  --color-ink-0: #ffffff;
+  --color-ink-50: #f7f7fc;
+  --color-ink-100: #eff0f6;
+  --color-ink-150: #e4e6f0;
+  --color-ink-200: #d9dbe9;
+  --color-ink-300: #a0a3bd;
+  --color-ink-400: #6e7191;
+  --color-ink-500: #6e7191;
+  --color-ink-600: #4e4b66;
+  --color-ink-700: #3b3a55;
+  --color-ink-800: #24233b;
+  --color-ink-900: #14142b;
+  --color-ink-950: #0b0b1f;
+
+  /* আইকন ও রঙিন প্যানেলের সহায়ক রং */
+  --color-iris-50: #f0ebff;
+  --color-iris-500: #6a35ff;
+  --color-azure-50: #ebf2ff;
+  --color-azure-500: #3d7fff;
+  --color-sky-50: #e5f6ff;
+  --color-sky-500: #00a0ff;
+  --color-sunny-50: #fff7e0;
+  --color-sunny-500: #ffc632;
+
+  --color-danger-50: #fef2f2;
+  --color-danger-100: #fee2e2;
+  --color-danger-200: #fecaca;
+  --color-danger-500: #dc2626;
+  --color-danger-600: #b91c1c;
+  --color-danger-700: #991b1b;
+  --color-danger-800: #7f1d1d;
+
+  --color-water: #f5f7fc;
+  --color-line: #eff0f6;
+  --color-line-strong: #d9dbe9;
+  --color-sun: #ff3951;
+  --color-paper: #ffffff;
+  --color-paper-2: #f5f7fc;
+  --color-canvas: #ffffff;
+
+  --shadow-card: 0 6px 12px rgb(20 20 43 / 0.05);
+  --shadow-soft: 0 8px 20px rgb(20 20 43 / 0.06);
+  --shadow-input: 0 2px 6px rgb(19 18 66 / 0.07);
+  --shadow-coral: 0 8px 22px rgb(255 57 81 / 0.28);
+  --shadow-lift: 0 18px 36px rgb(20 20 43 / 0.08);
+  --shadow-panel: 0 34px 104px rgb(20 20 43 / 0.04), 0 13px 72px rgb(20 20 43 / 0.05);
+  --shadow-pop: 0 24px 60px -18px rgb(20 20 43 / 0.28);
+  --shadow-nav: 0 1px 0 rgb(20 20 43 / 0.06);
+  --shadow-box: 0 20px 60px -20px rgb(20 20 43 / 0.3);
+  --container-site: 80.625rem;
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-float-slow: float 8s ease-in-out infinite;
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-size: 1.125rem;
+    line-height: 1.75;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    line-height: 1.25;
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  ::selection {
+    background: var(--color-accent-100);
+    color: var(--color-brand-900);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-accent-500);
+    outline-offset: 3px;
+  }
+}
+
+@layer components {
+  /* পিল বোতাম; লেখা ১৯px বোল্ড, তাই কোরালের ওপর সাদা লেখা "বড় লেখা" হিসেবে পড়ার মান উতরে যায় */
+  .c-btn {
+    @apply inline-flex h-14 items-center justify-center gap-2 whitespace-nowrap rounded-full px-8 text-[1.1875rem] font-bold leading-none transition-[background-color,color,box-shadow,transform] duration-300 hover:-translate-y-0.5 disabled:pointer-events-none disabled:opacity-60;
+  }
+  .c-btn--solid,
+  .c-btn--accent {
+    @apply bg-accent-500 text-white shadow-coral hover:bg-accent-600;
+  }
+  .c-btn--outline {
+    @apply bg-white text-accent-600 shadow-soft hover:text-accent-700;
+  }
+  .c-btn--ghost {
+    @apply text-brand-900 hover:text-accent-600;
+  }
+  .c-btn--light {
+    @apply bg-white/15 text-white ring-1 ring-white/40 hover:bg-white/25;
+  }
+  .c-btn--lg {
+    @apply h-[4.25rem] px-11;
+  }
+  .c-btn--sm {
+    @apply h-11 px-5 text-base font-semibold;
+  }
+  .c-input {
+    @apply h-14 w-full rounded-full border border-line bg-white px-6 text-[1.05rem] text-ink-900 shadow-input placeholder:text-ink-400 focus:border-accent-300 focus:outline-none focus:ring-4 focus:ring-accent-500/10;
+  }
+  textarea.c-input {
+    @apply h-auto rounded-[20px] py-4;
+  }
+  .c-label {
+    @apply mb-2 block text-[0.95rem] font-semibold text-ink-900;
+  }
+  .c-card {
+    @apply rounded-[32px] border border-line bg-white shadow-card;
+  }
+  .c-chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-4 py-1.5 text-[0.95rem] text-ink-700 shadow-input;
+  }
+  /* সেকশনের উপশিরোনাম: সামনে ছোট কোরাল দাগ */
+  .section-eyebrow {
+    @apply inline-flex items-center gap-3 text-[1.125rem] font-bold text-accent-600 before:block before:h-[2px] before:w-6 before:rounded-full before:bg-accent-500 before:content-[''];
+  }
+  .eyebrow {
+    @apply text-[0.95rem] font-bold text-accent-600;
+  }
+  .text-link {
+    @apply font-bold text-accent-600 underline-offset-4 transition-colors hover:text-accent-700 hover:underline;
+  }
+  /* শিরোনাম-ব্যান্ডের ভেতরের বোতাম ও লিংক: পেজের থিম-রং (--theme-accent) ব্যবহার করে */
+  .c-btn--theme {
+    @apply bg-[var(--theme-accent)] text-[#0b0b1f] shadow-[0_10px_24px_-8px_rgba(0,0,0,0.45)] hover:brightness-110;
+  }
+  .text-link-light {
+    @apply font-semibold text-white underline decoration-[var(--theme-accent)] decoration-2 underline-offset-4 transition-colors hover:text-[var(--theme-accent)];
+  }
+  .glass {
+    @apply border border-white/60 bg-white/90 backdrop-blur-md;
+  }
+}
+
+.leaflet-container {
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgb(20 20 43 / 0.12);
+}
+.leaflet-popup-content {
+  margin: 12px 16px;
+  line-height: 1.5;
+}
+.leaflet-popup-content a {
+  color: #e02a44;
+  font-weight: 700;
+}
+
+/* হালনাগাদ: রেফারেন্স ডিজাইন, পেজভিত্তিক রঙের শিরোনাম-ব্যান্ড */
