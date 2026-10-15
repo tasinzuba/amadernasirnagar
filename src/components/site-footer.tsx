@@ -3,6 +3,7 @@ import { Logo } from "./logo";
 import { SearchForm } from "./search-form";
 import { Container } from "./section";
 import { site } from "@/data/site";
+import { team } from "@/data/team";
 import { data } from "@/lib/data";
 
 /** ফুটারে ইউনিয়নের ক্রম; তালিকায় না থাকা নতুন ইউনিয়ন থাকলে শেষে বসে */
@@ -38,6 +39,7 @@ const useful = [
   { href: "/transport", label: "যাতায়াত তথ্য" },
   { href: "/emergency", label: "জরুরি যোগাযোগ" },
   { href: "/about", label: "আমাদের সম্পর্কে" },
+  { href: "/team", label: "আমাদের টিম" },
 ];
 
 function FooterLink({ href, label }: { href: string; label: string }) {
@@ -119,7 +121,29 @@ export async function SiteFooter() {
         </div>
 
         <div className="flex flex-col gap-3 border-t border-line py-8 text-[0.98rem] text-ink-500 sm:flex-row sm:items-center sm:justify-between">
-          <p>© ২০২৬ {site.name}। সকল স্বত্ব সংরক্ষিত।</p>
+          <div className="space-y-1">
+            <p>© ২০২৬ {site.name}। সকল স্বত্ব সংরক্ষিত।</p>
+            <p>
+              সাইটটি বানিয়েছেন{" "}
+              {team.map((m, i) => (
+                <span key={m.name}>
+                  {i > 0 && (i === team.length - 1 ? " ও " : ", ")}
+                  {m.facebook ? (
+                    <a
+                      href={m.facebook}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="font-semibold text-brand-900 underline decoration-accent-300 underline-offset-4 transition-colors hover:text-accent-600"
+                    >
+                      {m.name}
+                    </a>
+                  ) : (
+                    <span className="font-semibold text-brand-900">{m.name}</span>
+                  )}
+                </span>
+              ))}
+            </p>
+          </div>
           <p>নাসিরনগরের ইতিহাস, ঐতিহ্য ও তথ্য সংরক্ষণে আমাদের সম্মিলিত উদ্যোগ।</p>
         </div>
       </Container>

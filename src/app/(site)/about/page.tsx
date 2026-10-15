@@ -121,7 +121,17 @@ export default async function AboutPage() {
           </Block>
 
           <Block title="যোগাযোগ">
-            <p className="text-ink-700">যোগাযোগের ইমেইল ও সামাজিক যোগাযোগমাধ্যমের লিংক যাচাই করে এখানে যুক্ত করা হবে।</p>
+            <p className="text-ink-700">
+              সাইট নিয়ে কোনো পরামর্শ বা প্রশ্ন থাকলে{" "}
+              <Link href="/team" className="text-link">
+                আমাদের টিম
+              </Link>{" "}
+              পেজ থেকে সরাসরি যোগাযোগ করুন। গ্রামের তথ্য বা ছবি পাঠাতে{" "}
+              <Link href="/contribute" className="text-link">
+                তথ্য দিন
+              </Link>{" "}
+              ফর্ম ব্যবহার করুন।
+            </p>
           </Block>
         </div>
       </Container>

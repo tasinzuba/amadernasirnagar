@@ -158,7 +158,7 @@ function withGallery<T extends Record<string, unknown>>(item: T, images: ImageIt
 /* ---------- লগইন ---------- */
 
 export async function loginAction(_prev: ActionState, fd: FormData): Promise<ActionState> {
-  if (!isAdminConfigured()) return fail(".env.local ফাইলে ADMIN_PASSWORD দেওয়া নেই। README দেখুন।");
+  if (!isAdminConfigured()) return fail("অ্যাডমিন লগইন এখন বন্ধ আছে।");
   const password = String(fd.get("password") ?? "");
   if (!checkPassword(password)) return fail("পাসওয়ার্ড মেলেনি");
   await setSessionCookie();

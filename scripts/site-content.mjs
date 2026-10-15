@@ -52,6 +52,7 @@ const GROUPS = [
   ["তথ্য দিন পেজ", ["src/app/(site)/contribute/page.tsx"]],
   ["তথ্য দেওয়ার ফর্ম (হোমপেজ আর তথ্য দিন পেজে একই)", ["src/components/contribute-form.tsx", "src/actions/contribute.ts"]],
   ["আমাদের সম্পর্কে পেজ", ["src/app/(site)/about/page.tsx"]],
+  ["আমাদের টিম পেজ", ["src/app/(site)/team/page.tsx", "src/data/team.ts"]],
   ["ফুটার আর খোঁজার বাক্স", ["src/components/site-footer.tsx", "src/components/search-form.tsx"]],
   ["পেজ না পেলে (৪০৪)", ["src/app/not-found.tsx", "src/app/(site)/not-found.tsx", "src/components/not-found-body.tsx"]],
 ];

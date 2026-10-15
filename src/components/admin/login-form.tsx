@@ -13,8 +13,7 @@ export function LoginForm() {
         <label htmlFor="password" className="c-label">
           পাসওয়ার্ড
         </label>
-        <input id="password" name="password" type="password" required autoFocus className="c-input" />
-        <p className="mt-1 text-xs text-ink-300">প্রজেক্টের .env.local ফাইলের ADMIN_PASSWORD</p>
+        <input id="password" name="password" type="password" required autoFocus autoComplete="current-password" className="c-input" />
       </div>
       <FormMessage state={state} />
       <SubmitButton label="লগইন" pendingLabel="যাচাই হচ্ছে…" />
