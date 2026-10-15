@@ -66,19 +66,19 @@ export function CoverField({ current, label = "কভার ছবি", hint }: 
       {current ? (
         <div className="flex flex-wrap items-start gap-4">
           <Image src={current} alt="" width={240} height={180} className="h-36 w-48 rounded-xl object-cover" unoptimized />
-          <div className="grid grid-cols-1 gap-2 text-sm">
-            <p className="text-ink-300">{current}</p>
+          <div className="grid min-w-0 grid-cols-1 gap-2 text-sm">
+            <p className="break-all text-ink-300">{current}</p>
             <label className="flex items-center gap-2 text-danger-600">
               <input type="checkbox" name="coverRemove" className="accent-danger-500" /> এই ছবি মুছে দিন
             </label>
             <label className="block">
               <span className="text-ink-600">নতুন ছবি দিয়ে বদলান:</span>
-              <input type="file" name="coverFile" accept="image/*" onChange={onChange} className="mt-1 block text-sm" />
+              <input type="file" name="coverFile" accept="image/*" onChange={onChange} className="mt-1 block w-full max-w-full text-sm" />
             </label>
           </div>
         </div>
       ) : (
-        <input type="file" name="coverFile" accept="image/*" onChange={onChange} className="block text-sm" />
+        <input type="file" name="coverFile" accept="image/*" onChange={onChange} className="block w-full max-w-full text-sm" />
       )}
       <PickNote note={note} />
       <p className="mt-1 text-xs text-ink-300">{hint ?? "JPG/PNG/WebP; আপলোডের সময় ১৬০০px চওড়ায় ছোট করে JPG বানানো হয়।"}</p>
@@ -110,7 +110,7 @@ export function GalleryField({ images = [] }: { images?: ImageItem[] }) {
       )}
       <label className="mt-3 block text-sm">
         <span className="text-ink-600">নতুন ছবি যোগ করুন (একসাথে একাধিক বাছাই করা যায়):</span>
-        <input type="file" name="galleryFiles" accept="image/*" multiple onChange={onChange} className="mt-1 block text-sm" />
+        <input type="file" name="galleryFiles" accept="image/*" multiple onChange={onChange} className="mt-1 block w-full max-w-full text-sm" />
       </label>
       <PickNote note={note} />
     </div>

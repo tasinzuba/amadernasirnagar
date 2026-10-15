@@ -148,6 +148,12 @@
   .c-btn--sm {
     @apply h-11 px-5 text-base font-semibold;
   }
+  /* ফোনে বোতাম পুরো চওড়া, একটার নিচে আরেকটা; ছোট (--sm) আর পাশাপাশি রাখার (--inline) বোতাম বাদ */
+  @media (width < 40rem) {
+    .c-btn:not(.c-btn--sm, .c-btn--inline) {
+      width: 100%;
+    }
+  }
   .c-input {
     @apply h-14 w-full rounded-full border border-line bg-white px-6 text-[1.05rem] text-ink-900 shadow-input placeholder:text-ink-400 focus:border-accent-300 focus:outline-none focus:ring-4 focus:ring-accent-500/10;
   }
@@ -201,5 +207,11 @@
   color: #e02a44;
   font-weight: 700;
 }
+/* ফোনে মানচিত্রের +/− বোতাম আঙুলে চাপার মতো বড় */
+.leaflet-container.leaflet-touch .leaflet-bar a {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+}
 
-/* হালনাগাদ: রেফারেন্স ডিজাইন, পেজভিত্তিক রঙের শিরোনাম-ব্যান্ড */
+/* হালনাগাদ: রেফারেন্স ডিজাইন, পেজভিত্তিক রঙের শিরোনাম-ব্যান্ড, ফোনে পুরো চওড়া বোতাম ও বড় ম্যাপ-বোতাম */

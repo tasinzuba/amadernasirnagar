@@ -261,17 +261,20 @@ export function SchoolTypeBadge({ type, label }: { type: SchoolType; label?: str
 export function SchoolCard({ school, className = "" }: { school: SchoolCardData; className?: string }) {
   const s = schoolTypeStyle[school.type];
   return (
-    <article className={`group relative flex h-full flex-col p-4 ${cardBase} !rounded-[24px] ${className}`}>
-      <div className={`relative flex aspect-[16/9] items-center justify-center overflow-hidden rounded-[18px] ${panelBg[s.tone]}`}>
+    // ফোনে পাশাপাশি (বাঁয়ে ছোট ছবি/আইকন), বড় পর্দায় ওপরে ছবি নিচে লেখা
+    <article className={`group relative flex h-full flex-row gap-4 p-4 sm:flex-col sm:gap-0 ${cardBase} !rounded-[24px] ${className}`}>
+      <div
+        className={`relative flex h-20 w-20 shrink-0 items-center justify-center self-start overflow-hidden rounded-[16px] sm:aspect-[16/9] sm:h-auto sm:w-full sm:self-auto sm:rounded-[18px] ${panelBg[s.tone]}`}
+      >
         {school.cover ? (
-          <Image src={school.cover} alt="" fill sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw" className="object-cover" />
+          <Image src={school.cover} alt="" fill sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 80px" className="object-cover" />
         ) : (
           <IconTile icon={s.icon} tone={s.tone} size="md" />
         )}
       </div>
-      <div className="flex flex-1 flex-col px-2 pb-2 pt-4">
-        <p className="text-[0.9rem] font-bold text-accent-600">{schoolTypeLabel(school)}</p>
-        <h3 className="mt-1 text-[1.2rem] font-bold leading-snug text-brand-900">
+      <div className="flex min-w-0 flex-1 flex-col sm:px-2 sm:pb-2 sm:pt-4">
+        <p className="text-[0.85rem] font-bold text-accent-600 sm:text-[0.9rem]">{schoolTypeLabel(school)}</p>
+        <h3 className="mt-0.5 text-[1.1rem] font-bold leading-snug text-brand-900 sm:mt-1 sm:text-[1.2rem]">
           <Link href={`/schools/${school.slug}`} className="transition-colors after:absolute after:inset-0 after:content-[''] group-hover:text-accent-600">
             {school.name}
           </Link>
@@ -280,7 +283,7 @@ export function SchoolCard({ school, className = "" }: { school: SchoolCardData;
           <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-accent-500" aria-hidden="true" />
           {school.location}
         </p>
-        <p className="mt-auto pt-3 font-display text-[1.05rem] font-semibold text-brand-900">
+        <p className="pt-2 font-display text-[1.05rem] font-semibold text-brand-900 sm:mt-auto sm:pt-3">
           {school.established ? `প্রতিষ্ঠা: ${toBn(school.established)}` : <span className="font-sans text-[0.92rem] font-normal text-ink-400">প্রতিষ্ঠাকাল যুক্ত হবে</span>}
         </p>
       </div>

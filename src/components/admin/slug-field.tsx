@@ -11,7 +11,7 @@ export function SlugField({ initial, isNew, sourceInputId = "nameEn" }: { initia
       <label htmlFor="slug" className="c-label">
         slug (URL-এর অংশ) <span className="text-danger-500">*</span>
       </label>
-      <div className="flex gap-2">
+      <div className="flex flex-col gap-2 sm:flex-row">
         <input
           id="slug"
           name="slug"

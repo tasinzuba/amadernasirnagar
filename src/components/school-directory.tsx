@@ -82,7 +82,7 @@ export function SchoolDirectory({ items, unions, types }: { items: SchoolListIte
             <h2 id={`group-${g.type}`} className="font-display text-[2.1rem] font-bold leading-tight text-brand-900">
               {groupTitle[g.type]} <span className="font-sans text-lg font-normal text-ink-400">({toBn(g.items.length)})</span>
             </h2>
-            <div className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            <div className="mt-6 grid grid-cols-1 gap-4 sm:mt-8 sm:grid-cols-2 sm:gap-6 lg:grid-cols-3 xl:grid-cols-4">
               {g.items.map((s) => (
                 <SchoolCard key={s.slug} school={s} />
               ))}

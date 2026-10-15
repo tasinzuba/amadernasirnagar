@@ -97,16 +97,21 @@ export function Slides({ slides, label }: { slides: ReactNode[]; label: string }
             <div className="lg:hidden">
               <ArrowButton dir="prev" onClick={() => go(-1)} label="আগেরটি" />
             </div>
-            <div className="flex gap-2.5">
+            <div className="flex">
               {slides.map((_, i) => (
+                // ছোট বিন্দু, কিন্তু চাপার জায়গা বড় (ফোনে আঙুলে সহজে লাগে)
                 <button
                   key={i}
                   type="button"
                   onClick={() => jump(i)}
                   aria-label={`${i + 1} নম্বর স্লাইড`}
                   aria-current={i === index ? "true" : undefined}
-                  className={`h-2.5 rounded-full transition-all ${i === index ? "w-8 bg-accent-500" : "w-2.5 bg-brand-200 hover:bg-brand-300"}`}
-                />
+                  className="group flex h-10 items-center px-1.5"
+                >
+                  <span
+                    className={`block h-2.5 rounded-full transition-all ${i === index ? "w-8 bg-accent-500" : "w-2.5 bg-brand-200 group-hover:bg-brand-300"}`}
+                  />
+                </button>
               ))}
             </div>
             <div className="lg:hidden">
