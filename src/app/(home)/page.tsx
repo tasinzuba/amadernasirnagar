@@ -463,12 +463,13 @@ export default async function HomePage() {
               </p>
             </StaggerItem>
             <StaggerItem>
-              <div className="mt-10 flex flex-wrap gap-5">
-                <Link href="/villages" className="c-btn c-btn--solid c-btn--lg">
+              {/* ফোনে বোতাম দুটো পুরো চওড়া, একটার নিচে আরেকটা */}
+              <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:flex-wrap sm:gap-5">
+                <Link href="/villages" className="c-btn c-btn--solid c-btn--lg w-full sm:w-auto">
                   গ্রাম খুঁজুন
                   <ArrowRight className="h-5 w-5" aria-hidden="true" />
                 </Link>
-                <Link href="/places" className="c-btn c-btn--outline c-btn--lg">
+                <Link href="/places" className="c-btn c-btn--outline c-btn--lg w-full sm:w-auto">
                   দর্শনীয় স্থান
                 </Link>
               </div>
