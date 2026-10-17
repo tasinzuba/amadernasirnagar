@@ -23,7 +23,7 @@ import {
   Waves,
   type LucideIcon,
 } from "lucide-react";
-import { EventCard, NewsCard, PersonPhoto, PlaceTypeBadge, placeTypeStyle } from "@/components/cards";
+import { EventCard, NewsCard, panelBg, PersonPhoto, PlaceTypeBadge, placeTypeStyle } from "@/components/cards";
 import { ScrollRow, Slides } from "@/components/carousel";
 import { ContributeForm } from "@/components/contribute-form";
 import { HeroScene } from "@/components/hero-scene";
@@ -163,13 +163,6 @@ const solidBg: Record<Tone, string> = {
   iris: "bg-iris-500",
   sky: "bg-sky-500",
   sunny: "bg-sunny-500",
-};
-const toneText: Record<Tone, string> = {
-  accent: "text-accent-500",
-  azure: "text-azure-500",
-  iris: "text-iris-500",
-  sky: "text-sky-500",
-  sunny: "text-[#c99000]",
 };
 
 /** হোমপেজের "কেস স্টাডি" অংশে যে গ্রামগুলো আগে দেখাবে */
@@ -326,7 +319,6 @@ export default async function HomePage() {
 
   const placeSlides = places.map((p) => {
     const s = placeTypeStyle[p.type];
-    const Icon = s.icon;
     const h = placeHighlights.find((x) => x.slug === p.slug);
     const items = h
       ? h.rows.map(([k, v]) => (
@@ -346,28 +338,32 @@ export default async function HomePage() {
         <div
           className={`relative z-10 mx-auto aspect-[384/364] w-full max-w-[384px] overflow-hidden rounded-[50px] ${solidBg[s.tone]} lg:absolute lg:left-0 lg:top-1/2 lg:mx-0 lg:w-[384px] lg:-translate-y-1/2`}
         >
-          {p.cover ? (
-            <Image src={p.cover} alt={p.name} fill sizes="384px" className="object-cover" />
-          ) : (
-            <div className="absolute inset-0" aria-hidden="true">
-              <div className="absolute left-[10%] top-[12%] flex h-[56%] w-[52%] -rotate-6 flex-col justify-between rounded-[28px] bg-white p-5 shadow-lift">
-                <Icon className={`h-10 w-10 ${toneText[s.tone]}`} />
-                <div className="space-y-2">
-                  <div className="h-2.5 w-4/5 rounded-full bg-brand-100" />
-                  <div className="h-2.5 w-3/5 rounded-full bg-brand-100" />
-                  <div className="h-2.5 w-2/3 rounded-full bg-brand-100" />
+          {/* দুটি কার্ডের নকশা: ওপরের কার্ডে জায়গার ছবি ও ধরনের ব্যাজ (ছবি না থাকলে রঙিন প্যানেল), নিচেরটায় ইউনিয়ন */}
+          <div className="absolute inset-0" aria-hidden="true">
+            <div className="absolute left-[7%] top-[9%] h-[60%] w-[64%] -rotate-6 rounded-[28px] bg-white p-2.5 shadow-lift">
+              <div className={`relative h-full w-full overflow-hidden rounded-[20px] ${p.cover ? "bg-brand-50" : panelBg[s.tone]}`}>
+                {p.cover ? (
+                  <Image src={p.cover} alt="" fill sizes="240px" className="object-cover" />
+                ) : (
+                  <div className="absolute bottom-3 left-3">
+                    <IconTile icon={s.icon} tone={s.tone} size="md" />
+                  </div>
+                )}
+                <div className="absolute left-2.5 top-2.5 rounded-full shadow-soft">
+                  <PlaceTypeBadge type={p.type} label={h?.category} />
                 </div>
               </div>
-              <div className="absolute bottom-[12%] right-[9%] flex h-[48%] w-[46%] rotate-3 flex-col justify-center gap-3 rounded-[28px] bg-white p-5 shadow-lift">
-                <MapPin className="h-7 w-7 text-accent-500" />
-                <p className="text-[0.95rem] font-bold leading-snug text-brand-900">{db.unionName(p.union)} ইউনিয়ন</p>
-              </div>
             </div>
-          )}
+            <div className="absolute bottom-[7%] right-[7%] flex h-[42%] w-[44%] rotate-3 flex-col justify-center gap-3 rounded-[28px] bg-white p-4 shadow-lift">
+              <MapPin className="h-7 w-7 text-accent-500" />
+              <p className="text-[0.95rem] font-bold leading-snug text-brand-900">{db.unionName(p.union)} ইউনিয়ন</p>
+            </div>
+          </div>
         </div>
         <div className="relative -mt-16 rounded-[40px] border border-line bg-white px-7 pb-10 pt-24 shadow-card sm:px-10 lg:ml-48 lg:mt-0 lg:min-h-[466px] lg:py-20 lg:pl-60 lg:pr-16">
-          <PlaceTypeBadge type={p.type} label={h?.category} />
-          <h3 className="mt-4 text-[1.9rem] font-bold leading-snug text-brand-900">{h?.name ?? p.name}</h3>
+          {/* ধরনের ব্যাজ ওপরের ছবির কার্ডে দেখানো হয় (সেটা aria-hidden); স্ক্রিন রিডারের জন্য এখানে লেখা */}
+          <p className="sr-only">{h?.category ?? p.type}</p>
+          <h3 className="text-[1.9rem] font-bold leading-snug text-brand-900">{h?.name ?? p.name}</h3>
           <p className={`mt-3 text-lg leading-relaxed text-ink-500 ${h ? "" : "line-clamp-3"}`}>{h?.text ?? p.summary}</p>
           {items.length > 0 && (
             <div className="mt-6">
@@ -380,13 +376,15 @@ export default async function HomePage() {
     );
   });
 
+  // ফোন ও ট্যাবে: ধরন ও নাম → ছোট ছবি → পরিচয়। বড় পর্দায় বাঁয়ে সব লেখা (মাঝ বরাবর), ডানে বড় ছবি;
+  // ওপর-নিচের 1fr সারি দুটো ফাঁকা জায়গা ভাগ করে নেয়, তাই লেখা ছবির পাশে মাঝখানে থাকে
   const personSlides = people.map((p) => {
     return (
       <div
         key={p.slug}
-        className="mx-auto grid max-w-[1000px] grid-cols-1 items-center gap-10 rounded-[40px] border border-line bg-white p-8 shadow-card sm:p-14 lg:grid-cols-[1.35fr_1fr]"
+        className="mx-auto grid max-w-[1000px] grid-cols-1 gap-y-6 rounded-[40px] border border-line bg-white p-8 shadow-card sm:p-14 lg:grid-cols-[1.35fr_1fr] lg:grid-rows-[1fr_auto_auto_1fr] lg:gap-x-10 lg:gap-y-0"
       >
-        <div>
+        <div className="lg:col-start-1 lg:row-start-2">
           <p className="inline-flex items-center gap-3 text-[1.15rem] font-bold text-brand-900">
             <span className="flex gap-1" aria-hidden="true">
               <span className="h-2.5 w-2.5 rounded-full bg-iris-500" />
@@ -396,12 +394,14 @@ export default async function HomePage() {
             {p.category}
           </p>
           <h3 className="mt-5 text-[1.9rem] font-bold leading-snug text-brand-900">{p.name}</h3>
-          <p className="mt-4 text-lg leading-relaxed text-ink-500">{p.summary}</p>
+        </div>
+        <div className="flex lg:col-start-2 lg:row-span-4 lg:row-start-1 lg:items-center lg:justify-center">
+          <PersonPhoto person={p} size="slide" />
+        </div>
+        <div className="lg:col-start-1 lg:row-start-3 lg:mt-4">
+          <p className="text-lg leading-relaxed text-ink-500">{p.summary}</p>
           <p className="mt-8 font-bold text-brand-900">{p.years ?? "নাসিরনগরের কৃতী সন্তান"}</p>
           {p.union && <p className="text-accent-600">{db.unionName(p.union)} ইউনিয়ন</p>}
-        </div>
-        <div className="flex justify-center">
-          <PersonPhoto person={p} size="large" />
         </div>
       </div>
     );
@@ -469,7 +469,7 @@ export default async function HomePage() {
                   গ্রাম খুঁজুন
                   <ArrowRight className="h-5 w-5" aria-hidden="true" />
                 </Link>
-                <Link href="/places" className="c-btn c-btn--outline c-btn--lg w-full sm:w-auto">
+                <Link href="/places" className="c-btn c-btn--light c-btn--lg w-full sm:w-auto">
                   দর্শনীয় স্থান
                 </Link>
               </div>
@@ -531,7 +531,7 @@ export default async function HomePage() {
             <Link
               key={f.href}
               href={f.href}
-              className="group flex w-[85%] shrink-0 snap-start flex-col gap-6 rounded-[44px] border border-line bg-white p-8 shadow-card transition-[transform,box-shadow] duration-300 hover:-translate-y-1 hover:shadow-lift sm:w-[calc(50%-1rem)] sm:p-10 xl:flex-row"
+              className="group flex w-full shrink-0 snap-start flex-col gap-6 rounded-[44px] border border-line bg-white p-8 shadow-card transition-[transform,box-shadow] duration-300 hover:-translate-y-1 hover:shadow-lift sm:w-[calc(50%-1rem)] sm:p-10 xl:flex-row"
             >
               <IconTile icon={f.icon} tone={f.tone} />
               <div>
@@ -602,12 +602,13 @@ export default async function HomePage() {
               হাওর-বেষ্টিত নাসিরনগরের রয়েছে সমৃদ্ধ ইতিহাস ও ঐতিহ্য। একসময় মহকুমা হিসেবে পরিচিত এই জনপদ সময়ের বিবর্তনে আজকের নাসিরনগর
               উপজেলা। প্রশাসনিক পরিবর্তন, ঐতিহাসিক ঘটনাপ্রবাহ ও স্থানীয় সংস্কৃতির মধ্য দিয়ে গড়ে উঠেছে নাসিরনগরের নিজস্ব পরিচয়।
             </p>
-            <Link href="/upazila" className="c-btn c-btn--solid mt-10">
+            {/* বড় পর্দায় বোতাম লেখার নিচে; ফোন ও ট্যাবে সেকশনের শেষে, কার্ডগুলোর পরে (নিচে আরেকটা) */}
+            <Link href="/upazila" className="c-btn c-btn--solid mt-10 max-lg:hidden">
               পুরো ইতিহাস পড়ুন
               <ArrowRight className="h-5 w-5" aria-hidden="true" />
             </Link>
           </div>
-          <div className="relative pb-10">
+          <div className="relative lg:pb-10">
             <div
               className="pointer-events-none absolute -inset-10 rounded-full bg-[radial-gradient(circle,rgba(255,57,81,0.12),rgba(255,198,50,0.12)_45%,transparent_70%)] blur-2xl"
               aria-hidden="true"
@@ -626,16 +627,22 @@ export default async function HomePage() {
                 </li>
               ))}
             </ol>
+            {/* ৪৮০px থেকে ডান কলামের কার্ড ৪০px নিচে সরে থাকে, তাই সেখানে ফাঁক বেশি */}
+            <Link href="/upazila" className="c-btn c-btn--solid mt-10 min-[480px]:mt-20 lg:hidden">
+              পুরো ইতিহাস পড়ুন
+              <ArrowRight className="h-5 w-5" aria-hidden="true" />
+            </Link>
           </div>
         </div>
       </Section>
 
       {/* দর্শনীয় স্থান: একবারে একটি করে স্লাইড */}
       <Section tone="tint" align="center" eyebrow="ঐতিহ্য ও প্রকৃতি" title="নাসিরনগরে ঘুরে দেখার মতো স্থান">
-        <Slides slides={placeSlides} label="দর্শনীয় স্থান" />
+        {/* ফোনে তীর ওপরের ছবির প্যানেলের মাঝ বরাবর: প্যানেল চওড়ায় সর্বোচ্চ ৩৮৪px, উচ্চতা চওড়ার ৩৬৪/৩৮৪ ভাগ; প্যানেল সব স্লাইডে একই মাপের, তাই তীর নড়ে না */}
+        <Slides slides={placeSlides} label="দর্শনীয় স্থান" arrowY="top-[calc(min(100cqw,384px)*0.474)]" />
         <div className="mt-12 flex justify-center">
           <Link href="/places" className="c-btn c-btn--solid c-btn--lg">
-            সব {toBn(stats.places)}টি জায়গা দেখুন
+            সব জায়গা দেখুন
             <ArrowRight className="h-5 w-5" aria-hidden="true" />
           </Link>
         </div>
@@ -713,7 +720,8 @@ export default async function HomePage() {
             <p className="section-eyebrow">খবর ও আয়োজন</p>
             <h2 className={h2}>নাসিরনগরের খবর, ঐতিহ্য ও উৎসব</h2>
           </div>
-          <Link href="/news" className="c-btn c-btn--outline c-btn--lg">
+          {/* বড় পর্দায় শিরোনামের পাশে; ফোন ও ট্যাবে সেকশনের শেষে (নিচে আরেকটা) */}
+          <Link href="/news" className="c-btn c-btn--outline c-btn--lg max-lg:hidden">
             সব খবর দেখুন
             <ArrowRight className="h-5 w-5" aria-hidden="true" />
           </Link>
@@ -721,9 +729,14 @@ export default async function HomePage() {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
           {news[0] && <NewsCard post={news[0]} fullText />}
           {events[0] && <HomeEventCard event={events[0]} />}
-          {news[1] && <NewsCard post={news[1]} fullText />}
+          {/* ফোনে দ্বিতীয় খবরটা দেখায় না, পেজ ছোট থাকে */}
+          {news[1] && <NewsCard post={news[1]} fullText className="max-sm:hidden" />}
           {events[1] && <HomeEventCard event={events[1]} />}
         </div>
+        <Link href="/news" className="c-btn c-btn--outline c-btn--lg mt-10 lg:hidden">
+          সব খবর দেখুন
+          <ArrowRight className="h-5 w-5" aria-hidden="true" />
+        </Link>
       </Section>
 
       <Container>

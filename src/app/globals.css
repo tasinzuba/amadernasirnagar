@@ -125,22 +125,86 @@
 }
 
 @layer components {
-  /* পিল বোতাম; লেখা ১৯px বোল্ড, তাই কোরালের ওপর সাদা লেখা "বড় লেখা" হিসেবে পড়ার মান উতরে যায় */
+  /*
+   * পিল বোতাম, কাচের মতো: হালকা স্বচ্ছ পটভূমি, পেছনটা ঝাপসা, সরু কিনারা, ওপরের দিকে চকচকে আলো।
+   * স্তর (নিচ থেকে): বোতামের নিজের রং → ::before = হোভারে বাঁ থেকে ডানে ভরে ওঠা গ্রেডিয়েন্ট (--btn-fill),
+   * তার ওপর একবার বাঁ থেকে ডানে আলোর ঝলক (--btn-glint; ভরা অংশেই দেখা যায়) → ::after = কাচের চকচকে ভাব (--btn-sheen) → লেখা।
+   * কিবোর্ডে ফোকাসেও একই ইফেক্ট। লেখা ১৯px বোল্ড, তাই কোরালের ওপর সাদা লেখা "বড় লেখা" হিসেবে পড়ার মান উতরে যায়।
+   */
   .c-btn {
-    @apply inline-flex h-14 items-center justify-center gap-2 whitespace-nowrap rounded-full px-8 text-[1.1875rem] font-bold leading-none transition-[background-color,color,box-shadow,transform] duration-300 hover:-translate-y-0.5 disabled:pointer-events-none disabled:opacity-60;
+    @apply relative isolate inline-flex h-14 items-center justify-center gap-2 whitespace-nowrap rounded-full border border-transparent px-8 text-[1.1875rem] font-bold leading-none inset-shadow-[0_1px_0_rgb(255_255_255/0.35)] backdrop-blur-md transition-[color,background-color,border-color,box-shadow,translate,scale] duration-300 ease-out hover:-translate-y-0.5 active:translate-y-0 active:scale-[0.98] disabled:pointer-events-none disabled:opacity-60;
   }
+  .c-btn::before,
+  .c-btn::after {
+    content: "";
+    position: absolute;
+    inset: -1px;
+    z-index: -1;
+    border-radius: inherit;
+    pointer-events: none;
+  }
+  .c-btn::before {
+    background-image:
+      linear-gradient(105deg, transparent 15%, rgb(255 255 255 / var(--btn-glint, 0)) 50%, transparent 85%),
+      var(--btn-fill, none);
+    background-size: 40% 100%, 100% 100%;
+    background-repeat: no-repeat;
+    background-position: -120% 0, 0 0;
+    clip-path: inset(0 100% 0 0);
+    transition: clip-path 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .c-btn::after {
+    background-image: linear-gradient(180deg, rgb(255 255 255 / var(--btn-sheen, 0)) 0%, rgb(255 255 255 / 0) 58%);
+  }
+  /* ঝলক শুধু ঢোকার সময় চলে; বেরোলে চুপচাপ আগের জায়গায় ফেরে */
+  .c-btn:hover::before,
+  .c-btn:focus-visible::before {
+    clip-path: inset(0 0 0 0);
+    background-position: 220% 0, 0 0;
+    transition:
+      clip-path 0.5s cubic-bezier(0.22, 1, 0.36, 1),
+      background-position 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  /* শেষের তীর হোভারে একটু সামনে এগোয় */
+  .c-btn .lucide-arrow-right {
+    transition: translate 0.3s ease-out;
+  }
+  .c-btn:hover .lucide-arrow-right {
+    translate: 3px 0;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .c-btn::before,
+    .c-btn:hover::before,
+    .c-btn:focus-visible::before {
+      transition: none;
+    }
+  }
+  /* মূল বোতাম: কোরাল কাচ, বাঁ থেকে ডানে হালকা গ্রেডিয়েন্ট; হোভারে গাঢ় লাল থেকে উজ্জ্বল কোরাল ভরে ওঠে */
   .c-btn--solid,
   .c-btn--accent {
-    @apply bg-accent-500 text-white shadow-coral hover:bg-accent-600;
+    --btn-fill: linear-gradient(90deg, #9e1a30, #e8304b 55%, #ff4d65);
+    --btn-sheen: 0.22;
+    --btn-glint: 0.35;
+    background-image: linear-gradient(90deg, rgb(235 44 70 / 0.92), rgb(255 64 88 / 0.92));
+    text-shadow: 0 1px 1px rgb(120 10 30 / 0.25);
+    @apply border-white/25 text-white shadow-[0_10px_24px_-8px_rgb(255_57_81/0.55),0_2px_6px_-1px_rgb(255_57_81/0.25)] hover:shadow-[0_16px_32px_-10px_rgb(255_57_81/0.65)];
   }
+  /* দ্বিতীয় বোতাম: সাদা ঘষা কাচ, কোরাল লেখা; হোভারে কোরাল গ্রেডিয়েন্ট ভরে, লেখা সাদা */
   .c-btn--outline {
-    @apply bg-white text-accent-600 shadow-soft hover:text-accent-700;
+    --btn-fill: linear-gradient(90deg, #9e1a30, #e8304b 55%, #ff4d65);
+    --btn-sheen: 0.5;
+    --btn-glint: 0.35;
+    @apply border-accent-500/30 bg-white/65 text-accent-600 shadow-soft hover:text-white hover:shadow-[0_14px_30px_-10px_rgb(255_57_81/0.55)] focus-visible:text-white;
   }
   .c-btn--ghost {
     @apply text-brand-900 hover:text-accent-600;
   }
+  /* গাঢ় পটভূমির ওপর (শিরোনাম-ব্যান্ড, ছবি): স্বচ্ছ কাচ, সাদা কিনারা; হোভারে বাঁয়ে স্বচ্ছ থেকে ডানে পুরো কোরাল */
   .c-btn--light {
-    @apply bg-white/15 text-white ring-1 ring-white/40 hover:bg-white/25;
+    --btn-fill: linear-gradient(90deg, rgb(255 57 81 / 0.25), #ff3951);
+    --btn-sheen: 0.16;
+    --btn-glint: 0.3;
+    @apply border-white/35 bg-white/10 text-white hover:shadow-[0_14px_30px_-10px_rgb(255_57_81/0.6)];
   }
   .c-btn--lg {
     @apply h-[4.25rem] px-11;
@@ -179,9 +243,17 @@
   .text-link {
     @apply font-bold text-accent-600 underline-offset-4 transition-colors hover:text-accent-700 hover:underline;
   }
-  /* শিরোনাম-ব্যান্ডের ভেতরের বোতাম ও লিংক: পেজের থিম-রং (--theme-accent) ব্যবহার করে */
+  /*
+   * শিরোনাম-ব্যান্ডের ভেতরের বোতাম ও লিংক: পেজের থিম-রং (--theme-accent) ব্যবহার করে।
+   * বোতাম: থিম-রঙের হালকা কাচ ও কিনারা, সাদা লেখা; হোভারে থিম-রং বাঁয়ে কিছুটা স্বচ্ছ থেকে ডানে পুরো, লেখা গাঢ়।
+   */
   .c-btn--theme {
-    @apply bg-[var(--theme-accent)] text-[#0b0b1f] shadow-[0_10px_24px_-8px_rgba(0,0,0,0.45)] hover:brightness-110;
+    --btn-fill: linear-gradient(90deg, color-mix(in srgb, var(--theme-accent) 65%, transparent), var(--theme-accent));
+    --btn-sheen: 0.14;
+    --btn-glint: 0.35;
+    border-color: var(--theme-accent);
+    background-color: color-mix(in srgb, var(--theme-accent) 22%, transparent);
+    @apply text-white shadow-[0_10px_24px_-8px_rgba(0,0,0,0.45)] hover:text-[#0b0b1f] focus-visible:text-[#0b0b1f];
   }
   .text-link-light {
     @apply font-semibold text-white underline decoration-[var(--theme-accent)] decoration-2 underline-offset-4 transition-colors hover:text-[var(--theme-accent)];
@@ -214,4 +286,4 @@
   line-height: 40px;
 }
 
-/* হালনাগাদ: রেফারেন্স ডিজাইন, পেজভিত্তিক রঙের শিরোনাম-ব্যান্ড, ফোনে পুরো চওড়া বোতাম ও বড় ম্যাপ-বোতাম */
+/* হালনাগাদ: রেফারেন্স ডিজাইন, পেজভিত্তিক রঙের শিরোনাম-ব্যান্ড, ফোনে পুরো চওড়া বোতাম ও বড় ম্যাপ-বোতাম, কাচের মতো বোতাম (চকচকে ভাব ও আলোর ঝলক) */

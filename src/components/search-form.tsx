@@ -36,11 +36,10 @@ export function SearchForm({
         placeholder={placeholder}
         className="h-full min-w-0 flex-1 bg-transparent text-[1.05rem] text-ink-900 placeholder:text-ink-400 focus:outline-none"
       />
+      {/* সাইটের মূল বোতামের মতো কাচের নকশা; বাক্সের ভেতরে থাকে, তাই হোভারে ওপরে ওঠে না আর ফোনে পুরো চওড়া হয় না (--inline) */}
       <button
         type="submit"
-        className={`inline-flex shrink-0 items-center gap-2 rounded-full bg-accent-500 font-bold text-white shadow-coral transition-colors hover:bg-accent-600 ${
-          lg ? "h-14 px-7 text-[1.1875rem]" : "h-11 px-5 text-[1.05rem]"
-        }`}
+        className={`c-btn c-btn--solid c-btn--inline shrink-0 hover:translate-y-0 ${lg ? "h-14 px-7" : "h-11 px-5 text-[1.05rem]"}`}
       >
         খুঁজুন
         <ArrowRight className="h-5 w-5" aria-hidden="true" />

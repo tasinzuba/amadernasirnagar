@@ -44,13 +44,13 @@ const useful = [
 
 function FooterLink({ href, label }: { href: string; label: string }) {
   return (
-    <Link href={href} className="text-[1.05rem] text-ink-500 transition-colors hover:text-accent-600">
+    <Link href={href} className="text-[1.05rem] text-ink-300 transition-colors hover:text-accent-400">
       {label}
     </Link>
   );
 }
 
-/** রেফারেন্সের মতো সাদা ফুটার: লোগো ও পরিচিতি, ডানে খোঁজার বাক্স; তারপর লিংকের কলাম ও কপিরাইট */
+/** গাঢ় (প্রায় কালো) ফুটার: লোগো ও পরিচিতি, ডানে খোঁজার বাক্স; তারপর লিংকের কলাম (ফোনে দুই কলামে) ও কপিরাইট */
 export async function SiteFooter() {
   const db = await data();
   const all = db.getUnions();
@@ -60,31 +60,31 @@ export async function SiteFooter() {
   };
   const unions = [...all].sort((a, b) => rank(a.slug) - rank(b.slug));
   return (
-    <footer id="footer" className="border-t border-line bg-white">
+    <footer id="footer" className="bg-brand-950 text-ink-300">
       <Container>
         <div className="grid grid-cols-1 gap-10 py-16 lg:grid-cols-2 lg:items-center lg:gap-20">
           <div>
             <Link href="/" className="inline-flex items-center gap-3">
               <Logo className="h-11 w-11 drop-shadow-[0_6px_14px_rgba(255,57,81,0.35)]" />
-              <span className="text-[1.65rem] font-bold leading-none text-brand-900">{site.name}</span>
+              <span className="text-[1.65rem] font-bold leading-none text-white">{site.name}</span>
             </Link>
-            <p className="mt-6 max-w-xl leading-relaxed text-ink-500">
+            <p className="mt-6 max-w-xl leading-relaxed text-ink-300">
               হাওর-বেষ্টিত নাসিরনগরের প্রতিটি গ্রামের ইতিহাস, ঐতিহ্য, সংস্কৃতি, দর্শনীয় স্থান ও মানুষের অজানা তথ্য নিয়ে আমাদের এই ডিজিটাল
               তথ্যভান্ডার। জানুন নিজের শিকড়কে, চিনুন প্রিয় নাসিরনগরকে।
             </p>
-            <p className="mt-4 max-w-xl font-semibold leading-relaxed text-accent-600">
+            <p className="mt-4 max-w-xl font-semibold leading-relaxed text-accent-400">
               আমাদের গ্রাম, আমাদের পরিচয় — তথ্যেই বেঁচে থাকুক নাসিরনগরের ঐতিহ্য।
             </p>
           </div>
           <div>
-            <h2 className="text-[1.5rem] font-bold text-brand-900">আপনার গ্রামের তথ্য খুঁজুন</h2>
+            <h2 className="text-[1.5rem] font-bold text-white">আপনার গ্রামের তথ্য খুঁজুন</h2>
             <SearchForm id="footer-search" size="lg" placeholder="গ্রামের নাম লিখে খুঁজুন..." className="mt-5" />
           </div>
         </div>
 
-        <div className="grid grid-cols-1 gap-12 border-t border-line py-16 sm:grid-cols-2 lg:grid-cols-[2fr_1fr_1fr]">
+        <div className="grid grid-cols-1 gap-12 border-t border-white/10 py-16 sm:grid-cols-2 lg:grid-cols-[2fr_1fr_1fr]">
           <nav aria-label="ইউনিয়নসমূহ">
-            <h2 className="mb-6 text-[1.3rem] font-bold text-brand-900">ইউনিয়নসমূহ</h2>
+            <h2 className="mb-6 text-[1.3rem] font-bold text-white">ইউনিয়নসমূহ</h2>
             <ul className="grid grid-cols-2 gap-x-6 gap-y-3 sm:grid-cols-3">
               {unions.map((u) => (
                 <li key={u.slug}>
@@ -94,8 +94,8 @@ export async function SiteFooter() {
             </ul>
           </nav>
           <nav aria-label="নাসিরনগর ঘুরে দেখুন">
-            <h2 className="mb-6 text-[1.3rem] font-bold text-brand-900">নাসিরনগর ঘুরে দেখুন</h2>
-            <ul className="space-y-3">
+            <h2 className="mb-6 text-[1.3rem] font-bold text-white">নাসিরনগর ঘুরে দেখুন</h2>
+            <ul className="grid grid-cols-2 gap-x-6 gap-y-3 sm:grid-cols-1">
               {explore.map((l) => (
                 <li key={l.href}>
                   <FooterLink href={l.href} label={l.label} />
@@ -104,15 +104,15 @@ export async function SiteFooter() {
             </ul>
           </nav>
           <nav aria-label="প্রয়োজনীয় লিংক">
-            <h2 className="mb-6 text-[1.3rem] font-bold text-brand-900">প্রয়োজনীয় লিংক</h2>
-            <ul className="space-y-3">
+            <h2 className="mb-6 text-[1.3rem] font-bold text-white">প্রয়োজনীয় লিংক</h2>
+            <ul className="grid grid-cols-2 gap-x-6 gap-y-3 sm:grid-cols-1">
               {useful.map((l) => (
                 <li key={l.href}>
                   <FooterLink href={l.href} label={l.label} />
                 </li>
               ))}
               <li>
-                <Link href="/contribute" className="text-[1.05rem] font-bold text-accent-600 underline underline-offset-4 hover:text-accent-700">
+                <Link href="/contribute" className="text-[1.05rem] font-bold text-accent-400 underline underline-offset-4 hover:text-accent-300">
                   তথ্য জমা দিন
                 </Link>
               </li>
@@ -120,7 +120,7 @@ export async function SiteFooter() {
           </nav>
         </div>
 
-        <div className="flex flex-col gap-3 border-t border-line py-8 text-[0.98rem] text-ink-500 sm:flex-row sm:items-center sm:justify-between">
+        <div className="flex flex-col gap-3 border-t border-white/10 py-8 text-[0.98rem] text-ink-300 sm:flex-row sm:items-center sm:justify-between">
           <div className="space-y-1">
             <p>© ২০২৬ {site.name}। সকল স্বত্ব সংরক্ষিত।</p>
             <p>
@@ -133,12 +133,12 @@ export async function SiteFooter() {
                       href={m.facebook}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="font-semibold text-brand-900 underline decoration-accent-300 underline-offset-4 transition-colors hover:text-accent-600"
+                      className="font-semibold text-white underline decoration-accent-400 underline-offset-4 transition-colors hover:text-accent-400"
                     >
                       {m.name}
                     </a>
                   ) : (
-                    <span className="font-semibold text-brand-900">{m.name}</span>
+                    <span className="font-semibold text-white">{m.name}</span>
                   )}
                 </span>
               ))}

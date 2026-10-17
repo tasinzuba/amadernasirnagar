@@ -1,5 +1,5 @@
 import Image from "next/image";
-import type { ReactNode } from "react";
+import type { CSSProperties, ReactNode } from "react";
 import Link from "next/link";
 import {
   ArrowRight,
@@ -426,43 +426,54 @@ const avatarBg: Record<Tone, string> = {
 
 const PORTRAIT_BOX = {
   thumb: "h-24 w-20 text-2xl",
-  large: "h-[17.5rem] w-56 text-[6rem] sm:h-[22rem] sm:w-[17.5rem]",
+  slide: "h-[12.5rem] w-40 text-[4.5rem] lg:mx-auto lg:h-[22rem] lg:w-[17.5rem] lg:text-[6rem]",
 } as const;
-/** ছবির সর্বোচ্চ মাপ: তালিকায় ৮০px চওড়া, বড় ছবিতে ৩৬০px উঁচু; ছোট ছবি যেমন আছে তেমনই থাকে */
-const PORTRAIT_MAX = { thumb: 80, large: 360 } as const;
+/**
+ * ছবির সর্বোচ্চ মাপ: তালিকায় (thumb) ৮০px চওড়া; হোমপেজের স্লাইডে (slide) বড় পর্দায় ৩৬০px উঁচু,
+ * ফোন ও ট্যাবে ২০০px উঁচু (SLIDE_PHONE_HEIGHT; নামের নিচে ছোট করে)। ছোট ছবি যেমন আছে তেমনই থাকে।
+ */
+const PORTRAIT_MAX = { thumb: 80, slide: 360 } as const;
+const SLIDE_PHONE_HEIGHT = 200;
 
 /**
  * ব্যক্তির ছবি যেমন আছে তেমনই দেখায়: পোর্ট্রেট, গোল করে কাটা হয় না, আসল মাপের চেয়ে বড় করা হয় না
  * (বড় ছবি শুধু জায়গা অনুযায়ী ছোট হয়)। ছবি না থাকলে একই পোর্ট্রেট আকারে নামের প্রথম অক্ষর।
  */
-export function PersonPhoto({ person, size }: { person: PersonWithPhoto; size: "thumb" | "large" }) {
+export function PersonPhoto({ person, size }: { person: PersonWithPhoto; size: "thumb" | "slide" }) {
   const dims = person.imageSize;
   if (person.image && dims) {
     // দেখানোর মাপ আগেই হিসাব করা (কখনো আসল মাপের বেশি নয়), যাতে ছবি লোড হওয়ার আগেই জায়গা ঠিক থাকে
-    const scale = size === "thumb" ? Math.min(1, PORTRAIT_MAX.thumb / dims.width) : Math.min(1, PORTRAIT_MAX.large / dims.height);
+    const scale = size === "thumb" ? Math.min(1, PORTRAIT_MAX.thumb / dims.width) : Math.min(1, PORTRAIT_MAX.slide / dims.height);
     const width = Math.round(dims.width * scale);
     const height = Math.round(dims.height * scale);
+    // স্লাইডে ফোন ও ট্যাবের চওড়া আগেই হিসাব করা (উচ্চতা ২০০px পর্যন্ত), যাতে ছবি লোডের আগেও জায়গা ঠিক থাকে
+    const phoneWidth = Math.round(width * Math.min(1, SLIDE_PHONE_HEIGHT / height));
     return (
       <Image
         src={person.image}
         alt=""
         width={width}
         height={height}
-        className={size === "thumb" ? "h-auto max-w-full shrink-0 self-start rounded-lg" : "mx-auto h-auto max-w-full rounded-lg"}
+        style={size === "slide" ? ({ "--photo-w-phone": `${phoneWidth}px` } as CSSProperties) : undefined}
+        className={
+          size === "thumb"
+            ? "h-auto max-w-full shrink-0 self-start rounded-lg"
+            : "h-auto max-w-full rounded-lg max-lg:w-[var(--photo-w-phone)] lg:mx-auto"
+        }
       />
     );
   }
   if (person.image) {
     // মাপ জানা না গেলে পুরো ছবিটা বাক্সের ভেতরে, না কেটে
     return (
-      <div className={`relative shrink-0 self-start ${PORTRAIT_BOX[size]} ${size === "large" ? "mx-auto" : ""}`}>
+      <div className={`relative shrink-0 self-start ${PORTRAIT_BOX[size]}`}>
         <Image src={person.image} alt="" fill sizes={size === "thumb" ? "80px" : "288px"} className="object-contain" />
       </div>
     );
   }
   return (
     <div
-      className={`flex shrink-0 items-center justify-center self-start rounded-lg font-bold text-white ${PORTRAIT_BOX[size]} ${size === "large" ? "mx-auto" : ""} ${avatarBg[toneFor(person.slug)]}`}
+      className={`flex shrink-0 items-center justify-center self-start rounded-lg font-bold text-white ${PORTRAIT_BOX[size]} ${avatarBg[toneFor(person.slug)]}`}
       aria-hidden="true"
     >
       {person.name.charAt(0)}

@@ -44,7 +44,7 @@ export default async function PlacesPage() {
       >
         <nav className="mt-5 flex flex-wrap gap-2" aria-label="ধরন অনুযায়ী">
           {groups.map((g) => (
-            <a key={g.id} href={`#${g.id}`} className="c-btn c-btn--outline c-btn--sm">
+            <a key={g.id} href={`#${g.id}`} className="c-btn c-btn--light c-btn--sm">
               {g.type} ({toBn(g.places.length)})
             </a>
           ))}

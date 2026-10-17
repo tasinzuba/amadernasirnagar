@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { Users } from "lucide-react";
+import { Globe, Users } from "lucide-react";
 import { Block, Container, HeaderFrame, PageHeader } from "@/components/section";
 import { team, type TeamMember } from "@/data/team";
 import { toBn } from "@/lib/bn";
@@ -31,7 +31,7 @@ function initials(name: string): string {
 /** ছবি যেমন আছে তেমন (পোর্ট্রেট, বড় করা হয় না); না থাকলে নামের আদ্যক্ষর */
 function MemberPhoto({ member, size }: { member: TeamMember; size?: ImageSize }) {
   if (member.photo && size) {
-    const scale = Math.min(1, 320 / size.height);
+    const scale = Math.min(1, 300 / size.height);
     return (
       <Image
         src={member.photo}
@@ -66,7 +66,8 @@ export default async function TeamPage() {
       <Container className="py-14">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
           {members.map(({ member, size }) => (
-            <article key={member.name} className="c-card flex flex-col gap-6 p-7 sm:flex-row sm:items-start sm:p-8">
+            // ছবি ওপরে, নাম ও বোতাম নিচে: দুই কলামের সরু কার্ডেও সব আঁটে
+            <article key={member.name} className="c-card flex flex-col gap-6 p-7 sm:p-8">
               <div className="shrink-0">
                 <MemberPhoto member={member} size={size} />
               </div>
@@ -75,11 +76,21 @@ export default async function TeamPage() {
                 <h2 className="mt-1 text-[1.9rem] font-bold leading-snug text-brand-900">{member.name}</h2>
                 {member.nameEn && <p className="text-ink-400">{member.nameEn}</p>}
                 {member.bio && <p className="mt-4 leading-relaxed text-ink-600">{member.bio}</p>}
-                {member.facebook && (
-                  <a href={member.facebook} target="_blank" rel="noopener noreferrer" className="c-btn c-btn--outline mt-6">
-                    <FacebookIcon className="h-5 w-5 text-[#1877f2]" />
-                    ফেসবুকে যোগাযোগ
-                  </a>
+                {(member.portfolio || member.facebook) && (
+                  <div className="mt-6 flex flex-wrap gap-3">
+                    {member.portfolio && (
+                      <a href={member.portfolio} target="_blank" rel="noopener noreferrer" className="c-btn c-btn--solid">
+                        <Globe className="h-5 w-5" aria-hidden="true" />
+                        পোর্টফোলিও দেখুন
+                      </a>
+                    )}
+                    {member.facebook && (
+                      <a href={member.facebook} target="_blank" rel="noopener noreferrer" className="group c-btn c-btn--outline">
+                        <FacebookIcon className="h-5 w-5 text-[#1877f2] transition-colors group-hover:text-white" />
+                        ফেসবুকে যোগাযোগ
+                      </a>
+                    )}
+                  </div>
                 )}
               </div>
             </article>
