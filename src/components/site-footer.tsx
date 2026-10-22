@@ -65,7 +65,7 @@ export async function SiteFooter() {
         <div className="grid grid-cols-1 gap-10 py-16 lg:grid-cols-2 lg:items-center lg:gap-20">
           <div>
             <Link href="/" className="inline-flex items-center gap-3">
-              <Logo className="h-11 w-11 drop-shadow-[0_6px_14px_rgba(255,57,81,0.35)]" />
+              <Logo className="h-11 w-11 drop-shadow-[0_4px_12px_rgba(20,20,43,0.28)]" />
               <span className="text-[1.65rem] font-bold leading-none text-white">{site.name}</span>
             </Link>
             <p className="mt-6 max-w-xl leading-relaxed text-ink-300">

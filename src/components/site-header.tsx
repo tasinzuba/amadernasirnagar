@@ -14,7 +14,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-40 bg-white/90 backdrop-blur-md">
       <Container className="flex h-20 items-center gap-4 lg:h-24 lg:gap-6">
         <Link href="/" className="flex shrink-0 items-center gap-3" aria-label={`${site.name}, হোম`}>
-          <Logo className="h-11 w-11 drop-shadow-[0_6px_14px_rgba(255,57,81,0.35)]" />
+          <Logo className="h-11 w-11 drop-shadow-[0_4px_12px_rgba(20,20,43,0.28)]" />
           <span className="font-display text-[1.3rem] font-bold leading-none text-brand-900 sm:text-[1.65rem]">{site.name}</span>
         </Link>
 
